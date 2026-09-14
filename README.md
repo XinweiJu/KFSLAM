@@ -1,6 +1,6 @@
 # KFS⁴LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM
 
-[Project Page](https://anonymous4submission123.github.io/KFS4LAM_Submission/) · [Videos](#videos) · [Installation & Usage](USAGE.md)
+[Project Page](https://anonymous4submission123.github.io/KFS4LAM_Submission/) · [Checkpoints / Reconstruction Downloads](https://github.com/Anonymous4Submission123/KFS4LAM_Submission/releases/tag/reconstructions-v1) · [Videos](#videos) · [Installation & Usage](USAGE.md)
 
 KFS⁴LAM combines adaptive keyframe selection with fold-boundary supervision and restricted temporal deformation for endoscopic Gaussian splatting SLAM.
 
@@ -54,7 +54,7 @@ Local surface patches accumulate from final-checkpoint rendered observations, pr
 
 ## Reconstruction replay
 
-Anonymous checkpoint downloads are not yet available. To render an existing reconstruction archive, extract it and run after [installation](USAGE.md):
+[Checkpoints / Reconstruction Downloads](https://github.com/Anonymous4Submission123/KFS4LAM_Submission/releases/tag/reconstructions-v1): 25 KFS⁴LAM reconstruction archives (14 C3VD and 11 C3VD-v2), with Gaussian parameters, temporal deformation coefficients, poses, intrinsics and keyframe indices. Download the matching archive and verify it against `SHA256SUMS`. Extract it and run after [installation](USAGE.md):
 
 ```bash
 python render_checkpoint.py --backbone splatam --checkpoint params.npz --frames all --output rendered
