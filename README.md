@@ -2,7 +2,7 @@
 
 [Project Page](https://anonymous4submission123.github.io/KFS4LAM_Submission/) · [Videos](#videos) · [Installation & Usage](USAGE.md)
 
-Fold-aware Gaussian SLAM with adaptive keyframe observation selection, evaluated with SplaTAM and EndoGSLAM.
+KFS⁴LAM combines adaptive keyframe selection with fold-boundary supervision and restricted temporal deformation for endoscopic Gaussian splatting SLAM.
 
 ![Pipeline](assets/pipeline.png)
 
@@ -42,14 +42,14 @@ RGB and depth reconstruction on **trans_t2_b (C3VD)** and **c1_rectum_t2_v1 (C3V
 
 ## Videos
 
-KFS⁴LAM camera-motion and reconstruction videos: the left panel shows the estimated camera and trajectory; the right panel shows the synchronized rendered RGB view.
+Top: six methods and GT RGB at the same frame. Bottom: reconstructed RGB mesh and moving camera, GT/baseline/KFS⁴LAM trajectories, and synchronized KFS⁴LAM render.
 
-| Sequence | Video |
-|---|---|
-| trans_t2_b (C3VD) | [Video](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__trans_t2_b__camera_replay.mp4) · [Download MP4](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__trans_t2_b__camera_replay.mp4) |
-| c1_rectum_t2_v1 (C3VD-v2) | [Video](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4) · [Download MP4](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4) |
+| Sequence | Video | RGB mesh |
+|---|---|---|
+| c2_sigmoid_t2_v1 · SplaTAM comparison | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__comparison_mesh_gt.mp4) | [PLY](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__reconstruction.ply) |
+| trans_t2_c · historical EndoGSLAM comparison | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__comparison_mesh_gt.mp4) | [PLY](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__reconstruction.ply) |
 
-These videos replay the final time-conditioned map at saved estimated poses; they do not show online map growth.
+Final-checkpoint replays, not online map growth. The triangle meshes are extracted from the saved reconstructions, not GT. The historical EndoGSLAM example corresponds to the trajectory illustration and is distinct from the released SplaTAM configuration.
 
 ## Reconstruction replay
 
