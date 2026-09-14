@@ -2674,7 +2674,9 @@
       347,
       577
     ],
-    "metric_labels_outside_image": true
+    "metric_labels_outside_image": true,
+    "method_label_y": 78,
+    "reserved_psnr_row": false
   },
   "metrics": {
     "trajectory_ate_mean_mm": {
