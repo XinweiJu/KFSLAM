@@ -85,4 +85,4 @@ Camera-and-trajectory videos can be composed with `tools/compose_camera_replay.p
 
 ## Checkpoint scope
 
-The Release contains KFS⁴LAM reconstruction parameters, including Gaussian attributes, temporal deformation coefficients, camera poses, intrinsics and keyframe indices.
+KFS⁴LAM reconstruction archives contain Gaussian attributes, temporal deformation coefficients, camera poses, intrinsics and keyframe indices. Anonymous download hosting is not yet available.

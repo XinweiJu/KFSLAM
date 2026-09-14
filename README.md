@@ -1,6 +1,6 @@
 # KFS⁴LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM
 
-[Reconstruction Release](../../releases/tag/reconstructions-v1) · [Videos](#videos) · [Installation & Usage](USAGE.md)
+[Videos](#videos) · [Installation & Usage](USAGE.md)
 
 Fold-aware Gaussian SLAM with adaptive keyframe observation selection, evaluated with SplaTAM and EndoGSLAM.
 
@@ -53,7 +53,7 @@ These videos replay the final time-conditioned map at saved estimated poses; the
 
 ## Reconstruction replay
 
-Download a sequence archive from the Release, extract it, and run after [installation](USAGE.md):
+Anonymous checkpoint downloads are not yet available. To render an existing reconstruction archive, extract it and run after [installation](USAGE.md):
 
 ```bash
 python render_checkpoint.py --backbone splatam --checkpoint params.npz --frames all --output rendered
