@@ -11,7 +11,7 @@ final/splatam/       Final SplaTAM implementation and per-sequence configuration
 final/endogslam/     Final EndoGSLAM implementation and per-sequence configurations
 ablations/          Separately named paper component configurations
 modules/            Structure supervision, boundary distance and selection utilities
-configs/            Experiment manifest and common strict-25 sequence lists
+configs/            Experiment manifest and evaluation sequence lists
 results/            Paper tables, keyframe ratios and paired metric changes
 assets/             Paper figures with image metadata removed
 third_party/        Optional MonoGS visibility renderer and original license

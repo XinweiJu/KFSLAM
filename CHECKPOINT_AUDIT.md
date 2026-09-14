@@ -1,6 +1,6 @@
 # Released reconstruction audit
 
-The result archives contain the completed strict-25 reconstructions for each backbone. The checkpoint is authoritative for rendering; configuration flags alone do not prove that a component was instantiated.
+The result archives contain the completed reconstructions for the 25 evaluated sequences with each backbone. The checkpoint is authoritative for rendering; configuration flags alone do not prove that a component was instantiated.
 
 | Backbone | Checkpoints | Temporal coefficients in checkpoint | Reconstruction replay |
 |---|---:|---|---|

@@ -8,7 +8,7 @@ command -v gh >/dev/null 2>&1 || { echo 'Install GitHub CLI and run gh auth logi
 gh repo view "$repo" >/dev/null
 (cd "$results" && sha256sum -c SHA256SUMS)
 if ! gh release view "$tag" --repo "$repo" >/dev/null 2>&1; then
- gh release create "$tag" --repo "$repo" --draft --title 'Strict-25 reconstruction parameters' --notes-file "$results/README.md"
+ gh release create "$tag" --repo "$repo" --draft --title 'Reconstruction Parameters' --notes-file "$results/README.md"
 fi
 for asset in "$results"/*.zip "$results/manifest.json" "$results/SHA256SUMS" "$results/metrics.json"; do
  gh release upload "$tag" "$asset" --repo "$repo"

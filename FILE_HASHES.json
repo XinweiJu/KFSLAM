@@ -1,8 +1,8 @@
 {
   ".gitignore": "cec385b2c20ffe24086053bdb45e58309b8d6b72f1eaba0ce3ff4dc03a4b392f",
-  "CHECKPOINT_AUDIT.md": "8c5f3bbf537a88816b5db6562fe5dde5ed487ce9ac06ff2319e62ac498ab408a",
+  "CHECKPOINT_AUDIT.md": "99d37f7bb33581d73b947c3159cbbbd25450c0a8c87e7df57f4130263fd8603f",
   "LICENSES/SplaTAM-LICENSE": "3de56b2eb26a6e32ff21595051cb713487d950e317add7c80111c897180fec65",
-  "README.md": "59e63acf921448731ed5d591d390317e34039b630888bfab999ccac39b01a345",
+  "README.md": "4a04447e43c1952113dc7ec25708b958a8f9792fbe61d58b81ed684226f5ae50",
   "THIRD_PARTY.md": "c616b2e8ce663396dbe5823a6f2ff602e8e6128635f9afa10529213f66d181ce",
   "VALIDATION.json": "8e3b253f8735d7102318d1d36d16d614ca288f12468987e0e468b43f92148014",
   "ablations/README.md": "76d16f5fc545e9527080818592a32628cef831f3d681333fd2a0aa32bbd63435",
@@ -1938,5 +1938,5 @@
   "third_party/monogs_rasterizer/third_party/glm/util/usertype.dat": "519c798665a6bb0049e6d3f09ea8d652033e347e8980ed412365f664b682cfe0",
   "third_party/monogs_rasterizer/third_party/stbi_image_write.h": "24d110c51536eea49b99b3ef9eb717e3587338358d41b2596d5b1d1c0b0a18b8",
   "tools/compose_camera_replay.py": "6f3cc494e8736498e9b4b3dbadc4622ce39efc0183989e45125dd9ed99b1cf1c",
-  "tools/publish_release.sh": "916ec2c1f052f85d563d6c3590bc88d113d09ec33cc90fc8c862a678f2c87abf"
+  "tools/publish_release.sh": "4e7184c31c1da22eefff762ba38f2c3694db36bc40d82f421796dc309a9525c8"
 }
