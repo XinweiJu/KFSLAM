@@ -82,3 +82,7 @@ python render_checkpoint.py --backbone splatam --checkpoint params.npz --frames 
 ```
 
 Camera-and-trajectory videos can be composed with `tools/compose_camera_replay.py`.
+
+## Checkpoint scope
+
+The current Release contains KFS⁴LAM reconstructions with temporal deformation. The historical EndoGSLAM comparison checkpoints do not contain deformation coefficients and are not part of this Release. See the [checkpoint audit](CHECKPOINT_AUDIT.md) for implementation details.

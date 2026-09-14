@@ -59,8 +59,6 @@ Use `--backbone endogslam` for EndoGSLAM. The project page with figures and sync
 - `ablations/`: [component settings](ablations/README.md); [component results](results/component_results.tex).
 - `docs/`: project-page source, figures and videos.
 
-The released SplaTAM parameters include temporal deformation; the historical EndoGSLAM parameters do not. See the [checkpoint audit](CHECKPOINT_AUDIT.md) and [third-party notices](THIRD_PARTY.md).
-
 ## References
 
 - **C3VD** — Bobrow et al., *Colonoscopy 3D Video Dataset with Paired Depth from 2D–3D Registration*, Medical Image Analysis, 2023. [Dataset](https://durrlab.github.io/C3VD/) · [Paper](https://arxiv.org/abs/2206.08903)
