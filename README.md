@@ -1,4 +1,4 @@
-# KFS⁴LAM
+# KFS⁴LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM
 
 [Reconstruction Release](../../releases/tag/reconstructions-v1) · [Installation & Usage](USAGE.md)
 
