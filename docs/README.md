@@ -1,5 +1,5 @@
 # Project page
 
-Publication URL: coming soon.
+[Live website](https://anonymous4submission123.github.io/KFS4LAM_Submission/)
 
-The site sources include figures, main-result tables, and synchronized camera/trajectory videos. Serve this directory with a static HTTP server for local preview.
+The deployed website is maintained on the `gh-pages` branch of the dedicated submission repository. This directory contains the corresponding project-page source and media.

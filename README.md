@@ -1,6 +1,6 @@
 # KFS⁴LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM
 
-[Videos](#videos) · [Installation & Usage](USAGE.md)
+[Project Page](https://anonymous4submission123.github.io/KFS4LAM_Submission/) · [Videos](#videos) · [Installation & Usage](USAGE.md)
 
 Fold-aware Gaussian SLAM with adaptive keyframe observation selection, evaluated with SplaTAM and EndoGSLAM.
 
@@ -46,8 +46,8 @@ KFS⁴LAM camera-motion and reconstruction videos: the left panel shows the esti
 
 | Sequence | Video |
 |---|---|
-| trans_t2_b (C3VD) | [Video](https://anonymous.4open.science/api/repo/KFS4LAM/file/docs/assets/splatam__trans_t2_b__camera_replay.mp4) · [Download MP4](https://anonymous.4open.science/api/repo/KFS4LAM/file/docs/assets/splatam__trans_t2_b__camera_replay.mp4?download=1) |
-| c1_rectum_t2_v1 (C3VD-v2) | [Video](https://anonymous.4open.science/api/repo/KFS4LAM/file/docs/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4) · [Download MP4](https://anonymous.4open.science/api/repo/KFS4LAM/file/docs/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4?download=1) |
+| trans_t2_b (C3VD) | [Video](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__trans_t2_b__camera_replay.mp4) · [Download MP4](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__trans_t2_b__camera_replay.mp4) |
+| c1_rectum_t2_v1 (C3VD-v2) | [Video](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4) · [Download MP4](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4) |
 
 These videos replay the final time-conditioned map at saved estimated poses; they do not show online map growth.
 
