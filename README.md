@@ -1,6 +1,6 @@
 # KFS⁴LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM
 
-[Reconstruction Release](../../releases/tag/reconstructions-v1) · [Installation & Usage](USAGE.md)
+[Reconstruction Release](../../releases/tag/reconstructions-v1) · [Videos](#videos) · [Installation & Usage](USAGE.md)
 
 ![Project Page — coming soon](assets/project-page-pending.svg)
 
@@ -41,6 +41,17 @@ Sequence means over 14 C3VD and 11 C3VD-v2 sequences. Pose translation errors ar
 ![RGB and depth reconstruction compared with GaussianSLAM, Endo-2DTAM, MonoGS, EndoGSLAM and SplaTAM](assets/render_comparison.png)
 
 RGB and depth reconstruction on **trans_t2_b (C3VD)** and **c1_rectum_t2_v1 (C3VD-v2)**. [View full-resolution figure](assets/render_comparison.png).
+
+## Videos
+
+KFS⁴LAM camera-motion and reconstruction videos: the left panel shows the estimated camera and trajectory; the right panel shows the synchronized rendered RGB view.
+
+| Sequence | Video |
+|---|---|
+| trans_t2_b (C3VD) | [Open / download MP4](docs/assets/splatam__trans_t2_b__camera_replay.mp4?raw=1) |
+| c1_rectum_t2_v1 (C3VD-v2) | [Open / download MP4](docs/assets/splatam__c1_rectum_t2_v1__camera_replay.mp4?raw=1) |
+
+These videos replay the final time-conditioned map at saved estimated poses; they do not show online map growth.
 
 ## Reconstruction replay
 
