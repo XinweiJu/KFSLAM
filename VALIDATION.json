@@ -26,6 +26,7 @@
   "project_page": "Firefox HTTP smoke check passed, no missing resources; local-only media",
   "reconstruction_archives": 25,
   "camera_replay_videos": "4 videos; both methods on trans_t2_b and c1_rectum_t2_v1; all saved processed frames",
-  "main_results": "7 methods, 14 C3VD and 11 C3VD-v2 sequences, 175 per-sequence records",
-  "release_scope": "KFS4LAM (SplaTAM backend) only; EndoGSLAM archives withdrawn"
+  "main_results": "6 methods, 14 C3VD and 11 C3VD-v2 sequences, 150 per-sequence records",
+  "release_scope": "KFS4LAM (SplaTAM backend) only; EndoGSLAM archives withdrawn",
+  "readme_render_figure": "Main manuscript RGB/depth comparison: trans_t2_b and c1_rectum_t2_v1"
 }
