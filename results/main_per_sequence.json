@@ -1950,7 +1950,7 @@
     "depth_rmse": 3.6512809719728385
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "cecum_t2_a",
     "sim3_ate_mean": 1.4007021048634578,
@@ -1963,7 +1963,7 @@
     "depth_rmse": 0.4192196910685681
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "cecum_t2_c",
     "sim3_ate_mean": 1.4415559132035503,
@@ -1976,7 +1976,7 @@
     "depth_rmse": 0.5009792735179265
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "cecum_t3_a",
     "sim3_ate_mean": 0.17875909942291923,
@@ -1989,7 +1989,7 @@
     "depth_rmse": 0.44954518909039703
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "cecum_t4_a",
     "sim3_ate_mean": 0.6982468420540267,
@@ -2002,7 +2002,7 @@
     "depth_rmse": 0.5893135262747943
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "sigmoid_t3_a",
     "sim3_ate_mean": 0.2896662878660269,
@@ -2015,7 +2015,7 @@
     "depth_rmse": 0.33153239301369564
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "sigmoid_t3_b",
     "sim3_ate_mean": 0.1411478887811687,
@@ -2028,7 +2028,7 @@
     "depth_rmse": 0.3687125828993671
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t1_a",
     "sim3_ate_mean": 0.5778053370877014,
@@ -2041,7 +2041,7 @@
     "depth_rmse": 1.9743193909525871
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t1_b",
     "sim3_ate_mean": 0.21493292133655392,
@@ -2054,7 +2054,7 @@
     "depth_rmse": 0.8501703325997699
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t2_a",
     "sim3_ate_mean": 0.21568566573828718,
@@ -2067,7 +2067,7 @@
     "depth_rmse": 2.561155848503113
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t2_b",
     "sim3_ate_mean": 0.3384619369444727,
@@ -2080,7 +2080,7 @@
     "depth_rmse": 3.6485188649250913
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t3_a",
     "sim3_ate_mean": 0.18008388183301544,
@@ -2093,7 +2093,7 @@
     "depth_rmse": 0.559638150036335
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t3_b",
     "sim3_ate_mean": 0.15728706289477182,
@@ -2106,7 +2106,7 @@
     "depth_rmse": 0.596438839479729
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t4_a",
     "sim3_ate_mean": 0.26789707759739934,
@@ -2119,7 +2119,7 @@
     "depth_rmse": 1.2900181363026302
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd",
     "sequence": "trans_t4_b",
     "sim3_ate_mean": 0.16485546667108691,
@@ -2132,7 +2132,7 @@
     "depth_rmse": 0.8682993221282959
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_ascending_t2_v1",
     "sim3_ate_mean": 5.619417760385338,
@@ -2145,7 +2145,7 @@
     "depth_rmse": 3.698282766215345
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_descending_t2_v2",
     "sim3_ate_mean": 1.0364785858876442,
@@ -2158,7 +2158,7 @@
     "depth_rmse": 2.347621031296559
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_descending_t2_v3",
     "sim3_ate_mean": 1.0948481260344451,
@@ -2171,7 +2171,7 @@
     "depth_rmse": 2.434294744943961
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_rectum_t2_v1",
     "sim3_ate_mean": 15.657043441989067,
@@ -2184,7 +2184,7 @@
     "depth_rmse": 5.208573684805915
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_rectum_t3_v3",
     "sim3_ate_mean": 13.515332447308484,
@@ -2197,7 +2197,7 @@
     "depth_rmse": 4.19206576687949
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_sigmoid1_t2_v1",
     "sim3_ate_mean": 0.39989136201423336,
@@ -2210,7 +2210,7 @@
     "depth_rmse": 0.44122296737300026
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c1_sigmoid1_t3_v2",
     "sim3_ate_mean": 10.21341029398565,
@@ -2223,7 +2223,7 @@
     "depth_rmse": 3.744381041850074
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c2_ascending_t3_v3",
     "sim3_ate_mean": 7.500896243884,
@@ -2236,7 +2236,7 @@
     "depth_rmse": 4.7710552360072285
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c2_rectum_t3_v3",
     "sim3_ate_mean": 18.0936462894874,
@@ -2249,7 +2249,7 @@
     "depth_rmse": 5.007529754014242
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c2_sigmoid_t2_v1",
     "sim3_ate_mean": 0.550660902024284,
@@ -2262,7 +2262,7 @@
     "depth_rmse": 0.37937012062234393
   },
   {
-    "method": "KFS\u2074LAM (SplaTAM)",
+    "method": "KFS⁴LAM",
     "dataset": "c3vd_v2",
     "sequence": "c2_transverse2_t3_v3",
     "sim3_ate_mean": 5.9901925540310055,

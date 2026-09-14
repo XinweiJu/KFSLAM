@@ -10,7 +10,13 @@ gh repo view "$repo" >/dev/null
 if ! gh release view "$tag" --repo "$repo" >/dev/null 2>&1; then
  gh release create "$tag" --repo "$repo" --draft --title 'Reconstruction Parameters' --notes-file "$results/README.md"
 fi
-for asset in "$results"/*.zip "$results/manifest.json" "$results/SHA256SUMS" "$results/metrics.json"; do
- gh release upload "$tag" "$asset" --repo "$repo"
-done
+python3 - "$results" "$tag" "$repo" <<'PYUPLOAD'
+import json,subprocess,sys
+from pathlib import Path
+root=Path(sys.argv[1]);manifest=json.loads((root/'manifest.json').read_text())
+assets=[x['asset'] for x in manifest]+['manifest.json','SHA256SUMS','metrics.json']
+for name in assets:
+ if Path(name).name!=name:raise ValueError('Invalid asset name')
+ subprocess.run(['gh','release','upload',sys.argv[2],str(root/name),'--repo',sys.argv[3]],check=True)
+PYUPLOAD
 echo 'All assets uploaded. Verify downloads, then publish the draft release.'
