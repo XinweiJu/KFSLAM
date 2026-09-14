@@ -16,7 +16,7 @@
   ],
   "third_party_notices": "retained",
   "validation_scope": "syntax, configuration resolution, both full backbones real-data short runs and paper evaluation; not full-sequence retraining",
-  "public_destination": "upload pending repository access; GitHub connection returned 404",
+  "public_destination": "Code and reconstruction Release published; project-page URL pending",
   "smoke_tests": {
     "splatam_full": "3-frame training + native evaluation + paper metrics passed",
     "endogslam_full": "9 input frames with native train/held-out split + paper metrics passed"
@@ -25,5 +25,6 @@
   "render_checkpoint_tests": "Both backbones: actual final sigmoid parameters rendered at all processed-frame indices sampled every 8 frames",
   "project_page": "Firefox HTTP smoke check passed, no missing resources; local-only media",
   "reconstruction_archives": 50,
-  "camera_replay_videos": "4 videos; both methods on trans_t2_b and c1_rectum_t2_v1; all saved processed frames"
+  "camera_replay_videos": "4 videos; both methods on trans_t2_b and c1_rectum_t2_v1; all saved processed frames",
+  "main_results": "7 methods, 14 C3VD and 11 C3VD-v2 sequences, 175 per-sequence records"
 }

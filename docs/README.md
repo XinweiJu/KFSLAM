@@ -1,3 +1,5 @@
-# Anonymous project page
+# Project page
 
-Serve this directory using any static HTTP server. All assets are local; no account links or tracking scripts are included. Replace the pending download paragraph only with verified anonymous URLs. Enable anonymous HTML/Pages hosting when configuring the Anonymous GitHub mirror. Video metadata must be stripped before publication.
+Publication URL: coming soon.
+
+The site sources include figures, main-result tables, and synchronized camera/trajectory videos. Serve this directory with a static HTTP server for local preview.
