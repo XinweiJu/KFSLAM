@@ -1,0 +1,276 @@
+method,dataset,sequence,keyframes,full_sequence_frames,processed_record_frames,kf_percent
+EndoGSLAM,c3vd,cecum_t2_a,42,370,324,11.35135135135135
+EndoGSLAM,c3vd,cecum_t2_c,66,595,521,11.092436974789916
+EndoGSLAM,c3vd,cecum_t3_a,81,730,639,11.095890410958905
+EndoGSLAM,c3vd,cecum_t4_a,52,465,407,11.182795698924732
+EndoGSLAM,c3vd,sigmoid_t3_a,68,613,537,11.092985318107667
+EndoGSLAM,c3vd,sigmoid_t3_b,60,536,469,11.194029850746269
+EndoGSLAM,c3vd,trans_t1_a,8,61,54,13.114754098360656
+EndoGSLAM,c3vd,trans_t1_b,78,700,613,11.142857142857142
+EndoGSLAM,c3vd,trans_t2_a,23,194,170,11.855670103092784
+EndoGSLAM,c3vd,trans_t2_b,13,103,91,12.62135922330097
+EndoGSLAM,c3vd,trans_t3_a,29,250,219,11.6
+EndoGSLAM,c3vd,trans_t3_b,25,214,188,11.682242990654206
+EndoGSLAM,c3vd,trans_t4_a,43,382,335,11.256544502617801
+EndoGSLAM,c3vd,trans_t4_b,67,597,523,11.222780569514239
+EndoGSLAM,c3vd_v2,c1_ascending_t2_v1,43,374,328,11.497326203208557
+EndoGSLAM,c3vd_v2,c1_descending_t2_v2,69,617,540,11.183144246353322
+EndoGSLAM,c3vd_v2,c1_descending_t2_v3,69,617,540,11.183144246353322
+EndoGSLAM,c3vd_v2,c1_rectum_t2_v1,19,165,145,11.515151515151516
+EndoGSLAM,c3vd_v2,c1_rectum_t3_v3,25,220,193,11.363636363636363
+EndoGSLAM,c3vd_v2,c1_sigmoid1_t2_v1,40,354,310,11.299435028248588
+EndoGSLAM,c3vd_v2,c1_sigmoid1_t3_v2,52,464,406,11.206896551724139
+EndoGSLAM,c3vd_v2,c2_ascending_t3_v3,58,522,457,11.11111111111111
+EndoGSLAM,c3vd_v2,c2_rectum_t3_v3,38,333,292,11.411411411411411
+EndoGSLAM,c3vd_v2,c2_sigmoid_t2_v1,53,466,408,11.373390557939913
+EndoGSLAM,c3vd_v2,c2_transverse2_t3_v3,82,733,642,11.186903137789905
+KFS4LAM_EndoGSLAM,c3vd,cecum_t2_a,41,370,324,11.08108108108108
+KFS4LAM_EndoGSLAM,c3vd,cecum_t2_c,64,595,521,10.756302521008404
+KFS4LAM_EndoGSLAM,c3vd,cecum_t3_a,80,730,639,10.95890410958904
+KFS4LAM_EndoGSLAM,c3vd,cecum_t4_a,49,465,407,10.53763440860215
+KFS4LAM_EndoGSLAM,c3vd,sigmoid_t3_a,68,613,537,11.092985318107667
+KFS4LAM_EndoGSLAM,c3vd,sigmoid_t3_b,59,536,469,11.007462686567164
+KFS4LAM_EndoGSLAM,c3vd,trans_t1_a,7,61,54,11.475409836065573
+KFS4LAM_EndoGSLAM,c3vd,trans_t1_b,76,700,613,10.857142857142858
+KFS4LAM_EndoGSLAM,c3vd,trans_t2_a,21,194,170,10.824742268041238
+KFS4LAM_EndoGSLAM,c3vd,trans_t2_b,12,103,91,11.650485436893204
+KFS4LAM_EndoGSLAM,c3vd,trans_t3_a,27,250,219,10.8
+KFS4LAM_EndoGSLAM,c3vd,trans_t3_b,23,214,188,10.74766355140187
+KFS4LAM_EndoGSLAM,c3vd,trans_t4_a,43,382,335,11.256544502617801
+KFS4LAM_EndoGSLAM,c3vd,trans_t4_b,67,597,523,11.222780569514239
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_ascending_t2_v1,42,374,328,11.229946524064172
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_descending_t2_v2,68,617,540,11.021069692058347
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_descending_t2_v3,70,617,540,11.345218800648299
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_rectum_t2_v1,20,165,145,12.121212121212121
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_rectum_t3_v3,26,220,193,11.818181818181818
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_sigmoid1_t2_v1,40,354,310,11.299435028248588
+KFS4LAM_EndoGSLAM,c3vd_v2,c1_sigmoid1_t3_v2,52,464,406,11.206896551724139
+KFS4LAM_EndoGSLAM,c3vd_v2,c2_ascending_t3_v3,61,522,457,11.685823754789272
+KFS4LAM_EndoGSLAM,c3vd_v2,c2_rectum_t3_v3,32,333,292,9.60960960960961
+KFS4LAM_EndoGSLAM,c3vd_v2,c2_sigmoid_t2_v1,47,466,408,10.085836909871245
+KFS4LAM_EndoGSLAM,c3vd_v2,c2_transverse2_t3_v3,80,733,642,10.914051841746248
+SplaTAM,c3vd,cecum_t2_a,48,370,370,12.972972972972974
+SplaTAM,c3vd,cecum_t2_c,76,595,595,12.77310924369748
+SplaTAM,c3vd,cecum_t3_a,93,730,730,12.73972602739726
+SplaTAM,c3vd,cecum_t4_a,59,465,465,12.688172043010752
+SplaTAM,c3vd,sigmoid_t3_a,78,613,613,12.724306688417618
+SplaTAM,c3vd,sigmoid_t3_b,69,536,536,12.873134328358208
+SplaTAM,c3vd,trans_t1_a,9,61,61,14.754098360655737
+SplaTAM,c3vd,trans_t1_b,89,700,700,12.714285714285714
+SplaTAM,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM,c3vd,trans_t3_a,33,250,250,13.2
+SplaTAM,c3vd,trans_t3_b,28,214,214,13.08411214953271
+SplaTAM,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM,c3vd_v2,c1_ascending_t2_v1,48,374,374,12.834224598930481
+SplaTAM,c3vd_v2,c1_descending_t2_v2,78,617,617,12.641815235008103
+SplaTAM,c3vd_v2,c1_descending_t2_v3,78,617,617,12.641815235008103
+SplaTAM,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM,c3vd_v2,c1_rectum_t3_v3,29,220,220,13.181818181818182
+SplaTAM,c3vd_v2,c1_sigmoid1_t2_v1,46,354,354,12.994350282485875
+SplaTAM,c3vd_v2,c1_sigmoid1_t3_v2,60,464,464,12.931034482758621
+SplaTAM,c3vd_v2,c2_ascending_t3_v3,67,522,522,12.835249042145595
+SplaTAM,c3vd_v2,c2_rectum_t3_v3,43,333,333,12.912912912912914
+SplaTAM,c3vd_v2,c2_sigmoid_t2_v1,60,466,466,12.875536480686696
+SplaTAM,c3vd_v2,c2_transverse2_t3_v3,93,733,733,12.687585266030014
+SplaTAM + DynMap,c3vd,cecum_t2_a,48,370,370,12.972972972972974
+SplaTAM + DynMap,c3vd,cecum_t2_c,76,595,595,12.77310924369748
+SplaTAM + DynMap,c3vd,cecum_t3_a,93,730,730,12.73972602739726
+SplaTAM + DynMap,c3vd,cecum_t4_a,59,465,465,12.688172043010752
+SplaTAM + DynMap,c3vd,sigmoid_t3_a,78,613,613,12.724306688417618
+SplaTAM + DynMap,c3vd,sigmoid_t3_b,69,536,536,12.873134328358208
+SplaTAM + DynMap,c3vd,trans_t1_a,9,61,61,14.754098360655737
+SplaTAM + DynMap,c3vd,trans_t1_b,89,700,700,12.714285714285714
+SplaTAM + DynMap,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM + DynMap,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM + DynMap,c3vd,trans_t3_a,33,250,250,13.2
+SplaTAM + DynMap,c3vd,trans_t3_b,28,214,214,13.08411214953271
+SplaTAM + DynMap,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM + DynMap,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM + DynMap,c3vd_v2,c1_ascending_t2_v1,48,374,374,12.834224598930481
+SplaTAM + DynMap,c3vd_v2,c1_descending_t2_v2,78,617,617,12.641815235008103
+SplaTAM + DynMap,c3vd_v2,c1_descending_t2_v3,78,617,617,12.641815235008103
+SplaTAM + DynMap,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM + DynMap,c3vd_v2,c1_rectum_t3_v3,29,220,220,13.181818181818182
+SplaTAM + DynMap,c3vd_v2,c1_sigmoid1_t2_v1,46,354,354,12.994350282485875
+SplaTAM + DynMap,c3vd_v2,c1_sigmoid1_t3_v2,60,464,464,12.931034482758621
+SplaTAM + DynMap,c3vd_v2,c2_ascending_t3_v3,67,522,522,12.835249042145595
+SplaTAM + DynMap,c3vd_v2,c2_rectum_t3_v3,43,333,333,12.912912912912914
+SplaTAM + DynMap,c3vd_v2,c2_sigmoid_t2_v1,60,466,466,12.875536480686696
+SplaTAM + DynMap,c3vd_v2,c2_transverse2_t3_v3,93,733,733,12.687585266030014
+SplaTAM + Structure-Guided,c3vd,cecum_t2_a,48,370,370,12.972972972972974
+SplaTAM + Structure-Guided,c3vd,cecum_t2_c,76,595,595,12.77310924369748
+SplaTAM + Structure-Guided,c3vd,cecum_t3_a,93,730,730,12.73972602739726
+SplaTAM + Structure-Guided,c3vd,cecum_t4_a,59,465,465,12.688172043010752
+SplaTAM + Structure-Guided,c3vd,sigmoid_t3_a,78,613,613,12.724306688417618
+SplaTAM + Structure-Guided,c3vd,sigmoid_t3_b,69,536,536,12.873134328358208
+SplaTAM + Structure-Guided,c3vd,trans_t1_a,9,61,61,14.754098360655737
+SplaTAM + Structure-Guided,c3vd,trans_t1_b,89,700,700,12.714285714285714
+SplaTAM + Structure-Guided,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM + Structure-Guided,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM + Structure-Guided,c3vd,trans_t3_a,33,250,250,13.2
+SplaTAM + Structure-Guided,c3vd,trans_t3_b,28,214,214,13.08411214953271
+SplaTAM + Structure-Guided,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM + Structure-Guided,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM + Structure-Guided,c3vd_v2,c1_ascending_t2_v1,48,374,374,12.834224598930481
+SplaTAM + Structure-Guided,c3vd_v2,c1_descending_t2_v2,78,617,617,12.641815235008103
+SplaTAM + Structure-Guided,c3vd_v2,c1_descending_t2_v3,78,617,617,12.641815235008103
+SplaTAM + Structure-Guided,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM + Structure-Guided,c3vd_v2,c1_rectum_t3_v3,29,220,220,13.181818181818182
+SplaTAM + Structure-Guided,c3vd_v2,c1_sigmoid1_t2_v1,46,354,354,12.994350282485875
+SplaTAM + Structure-Guided,c3vd_v2,c1_sigmoid1_t3_v2,60,464,464,12.931034482758621
+SplaTAM + Structure-Guided,c3vd_v2,c2_ascending_t3_v3,67,522,522,12.835249042145595
+SplaTAM + Structure-Guided,c3vd_v2,c2_rectum_t3_v3,43,333,333,12.912912912912914
+SplaTAM + Structure-Guided,c3vd_v2,c2_sigmoid_t2_v1,60,466,466,12.875536480686696
+SplaTAM + Structure-Guided,c3vd_v2,c2_transverse2_t3_v3,93,733,733,12.687585266030014
+SplaTAM + Motion-Guided,c3vd,cecum_t2_a,47,370,370,12.702702702702704
+SplaTAM + Motion-Guided,c3vd,cecum_t2_c,72,595,595,12.100840336134453
+SplaTAM + Motion-Guided,c3vd,cecum_t3_a,91,730,730,12.465753424657533
+SplaTAM + Motion-Guided,c3vd,cecum_t4_a,57,465,465,12.258064516129032
+SplaTAM + Motion-Guided,c3vd,sigmoid_t3_a,74,613,613,12.071778140293638
+SplaTAM + Motion-Guided,c3vd,sigmoid_t3_b,66,536,536,12.313432835820896
+SplaTAM + Motion-Guided,c3vd,trans_t1_a,8,61,61,13.114754098360656
+SplaTAM + Motion-Guided,c3vd,trans_t1_b,85,700,700,12.142857142857142
+SplaTAM + Motion-Guided,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM + Motion-Guided,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM + Motion-Guided,c3vd,trans_t3_a,31,250,250,12.4
+SplaTAM + Motion-Guided,c3vd,trans_t3_b,23,214,214,10.74766355140187
+SplaTAM + Motion-Guided,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM + Motion-Guided,c3vd,trans_t4_b,74,597,597,12.39530988274707
+SplaTAM + Motion-Guided,c3vd_v2,c1_ascending_t2_v1,47,374,374,12.566844919786096
+SplaTAM + Motion-Guided,c3vd_v2,c1_descending_t2_v2,77,617,617,12.479740680713128
+SplaTAM + Motion-Guided,c3vd_v2,c1_descending_t2_v3,79,617,617,12.80388978930308
+SplaTAM + Motion-Guided,c3vd_v2,c1_rectum_t2_v1,23,165,165,13.93939393939394
+SplaTAM + Motion-Guided,c3vd_v2,c1_rectum_t3_v3,28,220,220,12.727272727272727
+SplaTAM + Motion-Guided,c3vd_v2,c1_sigmoid1_t2_v1,42,354,354,11.864406779661017
+SplaTAM + Motion-Guided,c3vd_v2,c1_sigmoid1_t3_v2,59,464,464,12.71551724137931
+SplaTAM + Motion-Guided,c3vd_v2,c2_ascending_t3_v3,69,522,522,13.218390804597702
+SplaTAM + Motion-Guided,c3vd_v2,c2_rectum_t3_v3,38,333,333,11.411411411411411
+SplaTAM + Motion-Guided,c3vd_v2,c2_sigmoid_t2_v1,46,466,466,9.871244635193133
+SplaTAM + Motion-Guided,c3vd_v2,c2_transverse2_t3_v3,92,733,733,12.551159618008185
+SplaTAM + Motion-and-Structure-Guided,c3vd,cecum_t2_a,47,370,370,12.702702702702704
+SplaTAM + Motion-and-Structure-Guided,c3vd,cecum_t2_c,71,595,595,11.932773109243698
+SplaTAM + Motion-and-Structure-Guided,c3vd,cecum_t3_a,90,730,730,12.32876712328767
+SplaTAM + Motion-and-Structure-Guided,c3vd,cecum_t4_a,56,465,465,12.043010752688172
+SplaTAM + Motion-and-Structure-Guided,c3vd,sigmoid_t3_a,74,613,613,12.071778140293638
+SplaTAM + Motion-and-Structure-Guided,c3vd,sigmoid_t3_b,66,536,536,12.313432835820896
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t1_a,8,61,61,13.114754098360656
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t1_b,87,700,700,12.428571428571429
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t3_a,30,250,250,12.0
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t3_b,23,214,214,10.74766355140187
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM + Motion-and-Structure-Guided,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_ascending_t2_v1,47,374,374,12.566844919786096
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_descending_t2_v2,76,617,617,12.317666126418152
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_descending_t2_v3,77,617,617,12.479740680713128
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_rectum_t3_v3,29,220,220,13.181818181818182
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_sigmoid1_t2_v1,44,354,354,12.429378531073446
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c1_sigmoid1_t3_v2,59,464,464,12.71551724137931
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c2_ascending_t3_v3,68,522,522,13.026819923371647
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c2_rectum_t3_v3,38,333,333,11.411411411411411
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c2_sigmoid_t2_v1,46,466,466,9.871244635193133
+SplaTAM + Motion-and-Structure-Guided,c3vd_v2,c2_transverse2_t3_v3,93,733,733,12.687585266030014
+SplaTAM + Motion Proposal Only,c3vd,cecum_t2_a,46,370,370,12.432432432432432
+SplaTAM + Motion Proposal Only,c3vd,cecum_t2_c,72,595,595,12.100840336134453
+SplaTAM + Motion Proposal Only,c3vd,cecum_t3_a,90,730,730,12.32876712328767
+SplaTAM + Motion Proposal Only,c3vd,cecum_t4_a,56,465,465,12.043010752688172
+SplaTAM + Motion Proposal Only,c3vd,sigmoid_t3_a,76,613,613,12.398042414355627
+SplaTAM + Motion Proposal Only,c3vd,sigmoid_t3_b,66,536,536,12.313432835820896
+SplaTAM + Motion Proposal Only,c3vd,trans_t1_a,8,61,61,13.114754098360656
+SplaTAM + Motion Proposal Only,c3vd,trans_t1_b,85,700,700,12.142857142857142
+SplaTAM + Motion Proposal Only,c3vd,trans_t2_a,25,194,194,12.88659793814433
+SplaTAM + Motion Proposal Only,c3vd,trans_t2_b,13,103,103,12.62135922330097
+SplaTAM + Motion Proposal Only,c3vd,trans_t3_a,31,250,250,12.4
+SplaTAM + Motion Proposal Only,c3vd,trans_t3_b,26,214,214,12.149532710280374
+SplaTAM + Motion Proposal Only,c3vd,trans_t4_a,50,382,382,13.089005235602095
+SplaTAM + Motion Proposal Only,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_ascending_t2_v1,49,374,374,13.101604278074866
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_descending_t2_v2,78,617,617,12.641815235008103
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_descending_t2_v3,80,617,617,12.965964343598054
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_rectum_t3_v3,30,220,220,13.636363636363637
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_sigmoid1_t2_v1,46,354,354,12.994350282485875
+SplaTAM + Motion Proposal Only,c3vd_v2,c1_sigmoid1_t3_v2,60,464,464,12.931034482758621
+SplaTAM + Motion Proposal Only,c3vd_v2,c2_ascending_t3_v3,69,522,522,13.218390804597702
+SplaTAM + Motion Proposal Only,c3vd_v2,c2_rectum_t3_v3,41,333,333,12.312312312312311
+SplaTAM + Motion Proposal Only,c3vd_v2,c2_sigmoid_t2_v1,58,466,466,12.446351931330472
+SplaTAM + Motion Proposal Only,c3vd_v2,c2_transverse2_t3_v3,91,733,733,12.414733969986358
+SplaTAM + Structure-Guided + Deformation,c3vd,cecum_t2_a,48,370,370,12.972972972972974
+SplaTAM + Structure-Guided + Deformation,c3vd,cecum_t2_c,76,595,595,12.77310924369748
+SplaTAM + Structure-Guided + Deformation,c3vd,cecum_t3_a,93,730,730,12.73972602739726
+SplaTAM + Structure-Guided + Deformation,c3vd,cecum_t4_a,59,465,465,12.688172043010752
+SplaTAM + Structure-Guided + Deformation,c3vd,sigmoid_t3_a,78,613,613,12.724306688417618
+SplaTAM + Structure-Guided + Deformation,c3vd,sigmoid_t3_b,69,536,536,12.873134328358208
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t1_a,9,61,61,14.754098360655737
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t1_b,89,700,700,12.714285714285714
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t2_a,26,194,194,13.402061855670103
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t2_b,14,103,103,13.592233009708737
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t3_a,33,250,250,13.2
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t3_b,28,214,214,13.08411214953271
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t4_a,49,382,382,12.827225130890053
+SplaTAM + Structure-Guided + Deformation,c3vd,trans_t4_b,76,597,597,12.73031825795645
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_ascending_t2_v1,48,374,374,12.834224598930481
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_descending_t2_v2,78,617,617,12.641815235008103
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_descending_t2_v3,78,617,617,12.641815235008103
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_rectum_t3_v3,29,220,220,13.181818181818182
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_sigmoid1_t2_v1,46,354,354,12.994350282485875
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c1_sigmoid1_t3_v2,60,464,464,12.931034482758621
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c2_ascending_t3_v3,67,522,522,12.835249042145595
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c2_rectum_t3_v3,43,333,333,12.912912912912914
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c2_sigmoid_t2_v1,60,466,466,12.875536480686696
+SplaTAM + Structure-Guided + Deformation,c3vd_v2,c2_transverse2_t3_v3,93,733,733,12.687585266030014
+SplaTAM + MonoGS KFS,c3vd,cecum_t2_a,32,370,370,8.64864864864865
+SplaTAM + MonoGS KFS,c3vd,cecum_t2_c,35,595,595,5.882352941176471
+SplaTAM + MonoGS KFS,c3vd,cecum_t3_a,32,730,730,4.383561643835616
+SplaTAM + MonoGS KFS,c3vd,cecum_t4_a,40,465,465,8.602150537634408
+SplaTAM + MonoGS KFS,c3vd,sigmoid_t3_a,37,613,613,6.035889070146819
+SplaTAM + MonoGS KFS,c3vd,sigmoid_t3_b,37,536,536,6.902985074626866
+SplaTAM + MonoGS KFS,c3vd,trans_t1_a,7,61,61,11.475409836065573
+SplaTAM + MonoGS KFS,c3vd,trans_t1_b,26,700,700,3.7142857142857144
+SplaTAM + MonoGS KFS,c3vd,trans_t2_a,10,194,194,5.154639175257732
+SplaTAM + MonoGS KFS,c3vd,trans_t2_b,11,103,103,10.679611650485437
+SplaTAM + MonoGS KFS,c3vd,trans_t3_a,10,250,250,4.0
+SplaTAM + MonoGS KFS,c3vd,trans_t3_b,8,214,214,3.7383177570093458
+SplaTAM + MonoGS KFS,c3vd,trans_t4_a,28,382,382,7.329842931937173
+SplaTAM + MonoGS KFS,c3vd,trans_t4_b,28,597,597,4.690117252931323
+SplaTAM + MonoGS KFS,c3vd_v2,c1_ascending_t2_v1,37,374,374,9.893048128342246
+SplaTAM + MonoGS KFS,c3vd_v2,c1_descending_t2_v2,58,617,617,9.40032414910859
+SplaTAM + MonoGS KFS,c3vd_v2,c1_descending_t2_v3,59,617,617,9.562398703403566
+SplaTAM + MonoGS KFS,c3vd_v2,c1_rectum_t2_v1,17,165,165,10.303030303030303
+SplaTAM + MonoGS KFS,c3vd_v2,c1_rectum_t3_v3,22,220,220,10.0
+SplaTAM + MonoGS KFS,c3vd_v2,c1_sigmoid1_t2_v1,34,354,354,9.6045197740113
+SplaTAM + MonoGS KFS,c3vd_v2,c1_sigmoid1_t3_v2,47,464,464,10.129310344827585
+SplaTAM + MonoGS KFS,c3vd_v2,c2_ascending_t3_v3,31,522,522,5.938697318007663
+SplaTAM + MonoGS KFS,c3vd_v2,c2_rectum_t3_v3,34,333,333,10.21021021021021
+SplaTAM + MonoGS KFS,c3vd_v2,c2_sigmoid_t2_v1,43,466,466,9.227467811158798
+SplaTAM + MonoGS KFS,c3vd_v2,c2_transverse2_t3_v3,66,733,733,9.004092769440655
+KFS4LAM_SplaTAM (Ours),c3vd,cecum_t2_a,46,370,370,12.432432432432432
+KFS4LAM_SplaTAM (Ours),c3vd,cecum_t2_c,72,595,595,12.100840336134453
+KFS4LAM_SplaTAM (Ours),c3vd,cecum_t3_a,90,730,730,12.32876712328767
+KFS4LAM_SplaTAM (Ours),c3vd,cecum_t4_a,56,465,465,12.043010752688172
+KFS4LAM_SplaTAM (Ours),c3vd,sigmoid_t3_a,74,613,613,12.071778140293638
+KFS4LAM_SplaTAM (Ours),c3vd,sigmoid_t3_b,65,536,536,12.126865671641792
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t1_a,8,61,61,13.114754098360656
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t1_b,86,700,700,12.285714285714286
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t2_a,25,194,194,12.88659793814433
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t2_b,13,103,103,12.62135922330097
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t3_a,31,250,250,12.4
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t3_b,23,214,214,10.74766355140187
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t4_a,50,382,382,13.089005235602095
+KFS4LAM_SplaTAM (Ours),c3vd,trans_t4_b,74,597,597,12.39530988274707
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_ascending_t2_v1,47,374,374,12.566844919786096
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_descending_t2_v2,76,617,617,12.317666126418152
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_descending_t2_v3,80,617,617,12.965964343598054
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_rectum_t2_v1,22,165,165,13.333333333333334
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_rectum_t3_v3,30,220,220,13.636363636363637
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_sigmoid1_t2_v1,44,354,354,12.429378531073446
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c1_sigmoid1_t3_v2,61,464,464,13.14655172413793
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c2_ascending_t3_v3,68,522,522,13.026819923371647
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c2_rectum_t3_v3,37,333,333,11.11111111111111
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c2_sigmoid_t2_v1,47,466,466,10.085836909871245
+KFS4LAM_SplaTAM (Ours),c3vd_v2,c2_transverse2_t3_v3,92,733,733,12.551159618008185

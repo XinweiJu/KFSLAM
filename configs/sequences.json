@@ -1,0 +1,31 @@
+{
+  "c3vd": [
+    "cecum_t2_a",
+    "cecum_t2_c",
+    "cecum_t3_a",
+    "cecum_t4_a",
+    "sigmoid_t3_a",
+    "sigmoid_t3_b",
+    "trans_t1_a",
+    "trans_t1_b",
+    "trans_t2_a",
+    "trans_t2_b",
+    "trans_t3_a",
+    "trans_t3_b",
+    "trans_t4_a",
+    "trans_t4_b"
+  ],
+  "c3vd_v2": [
+    "c1_ascending_t2_v1",
+    "c1_descending_t2_v2",
+    "c1_descending_t2_v3",
+    "c1_rectum_t2_v1",
+    "c1_rectum_t3_v3",
+    "c1_sigmoid1_t2_v1",
+    "c1_sigmoid1_t3_v2",
+    "c2_ascending_t3_v3",
+    "c2_rectum_t3_v3",
+    "c2_sigmoid_t2_v1",
+    "c2_transverse2_t3_v3"
+  ]
+}

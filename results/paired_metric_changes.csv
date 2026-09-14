@@ -1,0 +1,145 @@
+question,reference,variant,dataset,metric,reference_value,variant_value,delta,relative_change_percent,improved,sequence_wins,sequences
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,sim3_ate_mean,0.45440279202833134,0.4541855594327165,-0.00021723259561484687,-0.047806175363751535,True,8,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,are_deg_mean,10.340424003840683,10.318043673803022,-0.022380330037661267,-0.21643532247177522,True,9,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,rpet_mean,0.06245070681336743,0.06523128566147339,0.0027805788481059593,4.452437754492777,False,3,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,rper_deg_mean,0.14644518883989957,0.15329175311747786,0.006846564277578293,4.675171872708805,False,3,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,psnr,25.643735098718448,25.655617504634638,0.011882405916189498,0.046336486749876116,True,8,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,ssim,0.8776103418651147,0.8765066502470347,-0.0011036916180799938,-0.1257610086652372,False,6,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,lpips,0.24158056603333455,0.24291865734717003,0.001338091313835471,0.5538902966436554,False,5,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd,depth_rmse,1.1508607651683147,1.1728505270142264,0.021989761845911726,1.9107230441291145,False,7,14
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,sim3_ate_mean,7.683561806508982,7.404956310181405,-0.27860549632757703,-3.6259940811767977,True,8,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,are_deg_mean,59.49200674186388,64.25829591316601,4.766289171302127,8.011646324157606,False,5,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,rpet_mean,0.31034738681778457,0.33052418849791215,0.020176801680127587,6.501360261806899,False,5,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,rper_deg_mean,1.3969147334531442,1.6570735490186417,0.26015881556549747,18.623814992801325,False,5,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,psnr,20.135447949808718,19.712377808435207,-0.4230701413735112,-2.1011210797400204,False,7,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,ssim,0.7052859922006374,0.6861968867469174,-0.01908910545372,-2.706576575292252,False,3,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,lpips,0.4256930984875665,0.4391344154761047,0.013441316988538232,3.157513484783636,False,5,11
+DynMap without adaptive selection,SplaTAM,SplaTAM + DynMap,c3vd_v2,depth_rmse,4.94669204871121,5.4341011723402,0.48740912362899014,9.853233612065626,False,5,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,sim3_ate_mean,0.4541855594327165,0.45409338959222423,-9.216984049226218e-05,-0.02029343262418548,True,8,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,are_deg_mean,10.318043673803022,10.395900861133777,0.0778571873307552,0.7545731515794074,False,9,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,rpet_mean,0.06523128566147339,0.06394758088998477,-0.0012837047714886196,-1.9679280554894762,True,9,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,rper_deg_mean,0.15329175311747786,0.14798164453640875,-0.005310108581069117,-3.4640536578635306,True,8,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,psnr,25.655617504634638,25.658629959361438,0.003012454726800229,0.01174189132753245,True,5,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,ssim,0.8765066502470347,0.8776212281214112,0.0011145778743765211,0.12716137111594694,True,9,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,lpips,0.24291865734717003,0.24247341672693343,-0.0004452406202365977,-0.1832879471255544,True,9,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd,depth_rmse,1.1728505270142264,1.20156096311799,0.02871043610376356,2.447919444334734,False,8,14
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,sim3_ate_mean,7.404956310181405,7.845555397868282,0.44059908768687706,5.950056546330695,False,4,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,are_deg_mean,64.25829591316601,86.66735464385982,22.409058730693815,34.8734095920872,False,2,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,rpet_mean,0.33052418849791215,0.3646964338792636,0.03417224538135144,10.338803201257175,False,3,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,rper_deg_mean,1.6570735490186417,1.7652634222780392,0.10818987325939755,6.528972315288617,False,1,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,psnr,19.712377808435207,18.82587731784813,-0.8865004905870784,-4.4971768459497135,False,3,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,ssim,0.6861968867469174,0.6712991288543053,-0.014897757892612051,-2.1710617142608246,False,5,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,lpips,0.4391344154761047,0.4399968015695498,0.0008623860934450778,0.19638317176986497,False,7,11
+Fold-DT under fixed8,SplaTAM + DynMap,SplaTAM + Structure-Guided,c3vd_v2,depth_rmse,5.4341011723402,5.151101234272768,-0.28299993806743196,-5.207851843243427,True,5,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,sim3_ate_mean,0.4541855594327165,0.45633463179605677,0.0021490723633402764,0.47317056183480144,False,5,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,are_deg_mean,10.318043673803022,9.265534243575646,-1.052509430227376,-10.200668493966958,True,9,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,rpet_mean,0.06523128566147339,0.06438374915727234,-0.0008475365042010519,-1.2992791658276603,True,7,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,rper_deg_mean,0.15329175311747786,0.1526749573962635,-0.0006167957212143693,-0.40236719110497976,True,9,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,psnr,25.655617504634638,25.465396688607296,-0.19022081602734175,-0.7414392422750216,False,4,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,ssim,0.8765066502470347,0.8725898589724489,-0.003916791274585774,-0.4468638399357072,False,4,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,lpips,0.24291865734717003,0.2445150903921658,0.0015964330449957653,0.6571883207448392,False,8,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd,depth_rmse,1.1728505270142264,1.1165167322644296,-0.05633379474979683,-4.803152102698716,True,7,14
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,sim3_ate_mean,7.404956310181405,7.931623119153215,0.5266668089718101,7.112355386184688,False,3,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,are_deg_mean,64.25829591316601,86.62972101525574,22.37142510208973,34.81484341309151,False,2,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,rpet_mean,0.33052418849791215,0.3419108567752802,0.011386668277368062,3.4450332755116886,False,5,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,rper_deg_mean,1.6570735490186417,1.4512850818457628,-0.2057884671728789,-12.41878897256864,True,6,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,psnr,19.712377808435207,19.13806807936972,-0.5743097290654866,-2.9134472494725228,False,3,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,ssim,0.6861968867469174,0.6586711662479385,-0.027525720498978834,-4.011344415954898,False,5,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,lpips,0.4391344154761047,0.44881923518987654,0.00968481971377183,2.2054340020860375,False,5,11
+Adaptive motion and veto with same DynMap rule,SplaTAM + DynMap,SplaTAM + Motion-Guided,c3vd_v2,depth_rmse,5.4341011723402,4.696531622705012,-0.7375695496351877,-13.572981551934426,True,5,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,sim3_ate_mean,0.45633463179605677,0.45261008253207863,-0.0037245492639781386,-0.8161881664161541,True,8,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,are_deg_mean,9.265534243575646,10.00996193725465,0.744427693679004,8.034374209940044,False,7,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,rpet_mean,0.06438374915727234,0.06441933532159659,3.558616432425277e-05,0.055271966591008415,False,7,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,rper_deg_mean,0.1526749573962635,0.15276048035960055,8.552296333705356e-05,0.05601636626959561,False,7,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,psnr,25.465396688607296,25.563164323856956,0.09776763524966015,0.38392347248765724,True,8,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,ssim,0.8725898589724489,0.8707709247403637,-0.0018189342320852342,-0.2084523689316331,False,6,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,lpips,0.2445150903921658,0.244479168219077,-3.592217308878709e-05,-0.014691188601556604,True,9,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd,depth_rmse,1.1165167322644296,1.1672173868741111,0.05070065460968154,4.540966843090155,False,5,14
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,sim3_ate_mean,7.931623119153215,7.502889575279022,-0.42873354387419305,-5.40536958745419,True,6,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,are_deg_mean,86.62972101525574,61.232640719918116,-25.397080295337624,-29.31682106059781,True,6,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,rpet_mean,0.3419108567752802,0.40898688130440985,0.06707602452912964,19.617986150470546,False,6,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,rper_deg_mean,1.4512850818457628,1.3490045501899892,-0.10228053165577355,-7.047583754233311,True,6,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,psnr,19.13806807936972,20.77602346627721,1.637955386907489,8.558624517973978,True,8,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,ssim,0.6586711662479385,0.7205797682140349,0.06190860196609638,9.399015037921465,True,7,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,lpips,0.44881923518987654,0.42904513628449126,-0.019774098905385284,-4.40580468816576,True,8,11
+Fold-DT under adaptive KF,SplaTAM + Motion-Guided,SplaTAM + Motion-and-Structure-Guided,c3vd_v2,depth_rmse,4.696531622705012,4.305267237841984,-0.39126438486302817,-8.330921971684191,True,8,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,sim3_ate_mean,0.4389567387817234,0.45633463179605677,0.017377893014333345,3.9589079011667083,False,2,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,are_deg_mean,10.167164647519055,9.265534243575646,-0.9016304039434093,-8.868061403563686,True,6,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,rpet_mean,0.06437820615578184,0.06438374915727234,5.543001490498911e-06,0.008610058933733455,False,8,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,rper_deg_mean,0.15310545510551551,0.1526749573962635,-0.00043049770925202013,-0.2811772506442267,True,7,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,psnr,25.586884246629825,25.465396688607296,-0.12148755802252964,-0.4748040318294344,False,6,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,ssim,0.8730893352940736,0.8725898589724489,-0.0004994763216247255,-0.05720792837957678,False,6,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,lpips,0.24025168313884177,0.2445150903921658,0.004263407253324025,1.774558745072441,False,5,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd,depth_rmse,1.1675167584801536,1.1165167322644296,-0.05100002621572397,-4.368247894112853,True,11,14
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,sim3_ate_mean,6.370029303654632,7.931623119153215,1.5615938154985836,24.514703795831227,False,5,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,are_deg_mean,67.13382161744731,86.62972101525574,19.49589939780843,29.040353920119564,False,5,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,rpet_mean,0.3378557760045986,0.3419108567752802,0.004055080770681618,1.2002401790006445,False,5,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,rper_deg_mean,1.134389538072881,1.4512850818457628,0.31689554377288176,27.935337301437823,False,5,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,psnr,19.278293512025215,19.13806807936972,-0.1402254326554946,-0.7273747158586752,False,4,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,ssim,0.6559642312496641,0.6586711662479385,0.0027069349982744573,0.4126650310059654,True,3,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,lpips,0.47037090715685287,0.44881923518987654,-0.021551671966976327,-4.5818462917370795,True,5,11
+Appearance veto without Fold/deformation,SplaTAM + Motion Proposal Only,SplaTAM + Motion-Guided,c3vd_v2,depth_rmse,4.581763497682322,4.696531622705012,0.11476812502269063,2.5048897674606385,False,3,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,sim3_ate_mean,0.45409338959222423,0.43944503309848926,-0.01464835649373497,-3.2258466715160083,True,6,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,are_deg_mean,10.395900861133777,9.496496836623605,-0.8994040245101722,-8.651525601525245,True,8,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,rpet_mean,0.06394758088998477,0.061249229264019545,-0.0026983516259652257,-4.219630497997196,True,11,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,rper_deg_mean,0.14798164453640875,0.14453323959100203,-0.0034484049454067134,-2.3302923522777075,True,10,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,psnr,25.658629959361438,26.8518020530196,1.1931720936581627,4.6501784995844675,True,14,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,ssim,0.8776212281214112,0.890643998096702,0.013022769975290838,1.4838713511028834,True,12,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,lpips,0.24247341672693343,0.22059706932461237,-0.021876347402321056,-9.022163211795531,True,14,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd,depth_rmse,1.20156096311799,1.0710233914970184,-0.13053757162097157,-10.863999050221572,True,13,14
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,sim3_ate_mean,7.845555397868282,7.5588484956759086,-0.2867069021923738,-3.654386307313251,True,7,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,are_deg_mean,86.66735464385982,55.19910407397035,-31.468250569889477,-36.30923165844999,True,9,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,rpet_mean,0.3646964338792636,0.32578854457059453,-0.038907889308669064,-10.668568621526441,True,9,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,rper_deg_mean,1.7652634222780392,1.172237331075867,-0.5930260912021723,-33.59419810766164,True,7,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,psnr,18.82587731784813,19.39036032029591,0.5644830024477798,2.998441947311603,True,8,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,ssim,0.6712991288543053,0.6777937350099409,0.006494606155635574,0.9674682829873271,True,7,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,lpips,0.4399968015695498,0.4303024905837937,-0.009694310985756072,-2.203268512674339,True,7,11
+Restricted deformation under fixed8,SplaTAM + Structure-Guided,SplaTAM + Structure-Guided + Deformation,c3vd_v2,depth_rmse,5.151101234272768,4.060953120298266,-1.090148113974502,-21.16339913339733,True,9,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,sim3_ate_mean,0.45261008253207863,0.4476491061638885,-0.004960976368190151,-1.0960817179406335,True,5,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,are_deg_mean,10.00996193725465,9.345668415493591,-0.6642935217610582,-6.636324153129081,True,5,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,rpet_mean,0.06441933532159659,0.06238428898866788,-0.002035046332928711,-3.1590613637493714,True,12,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,rper_deg_mean,0.15276048035960055,0.1417757109621108,-0.010984769397489741,-7.190845021979131,True,11,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,psnr,25.563164323856956,26.6163650006016,1.0532006767446447,4.11999337563127,True,14,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,ssim,0.8707709247403637,0.8834843305236539,0.012713405783290277,1.460017258509283,True,13,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,lpips,0.244479168219077,0.22060489969660294,-0.023874268522474068,-9.765359026860077,True,14,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd,depth_rmse,1.1672173868741111,1.0719901100565927,-0.09522727681751841,-8.158486832735045,True,12,14
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,sim3_ate_mean,7.502889575279022,7.2428925460937785,-0.2599970291852438,-3.4652919595391296,True,8,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,are_deg_mean,61.232640719918116,44.8061655498678,-16.426475170050317,-26.826338006858187,True,10,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,rpet_mean,0.40898688130440985,0.3763820479684583,-0.032604833335951544,-7.972097596862449,True,5,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,rper_deg_mean,1.3490045501899892,1.1134051311928281,-0.23559941899716108,-17.464686754687374,True,5,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,psnr,20.77602346627721,20.911312405142976,0.13528893886576654,0.6511782155298462,True,7,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,ssim,0.7205797682140349,0.7163060842905857,-0.004273683923449179,-0.5930896358694038,False,7,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,lpips,0.42904513628449126,0.4332102234886918,0.004165087204200557,0.9707806596457313,False,8,11
+Restricted deformation under adaptive KF,SplaTAM + Motion-and-Structure-Guided,KFS4LAM_SplaTAM (Ours),c3vd_v2,depth_rmse,4.305267237841984,3.0472453437473006,-1.2580218940946835,-29.22052975102347,True,9,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,sim3_ate_mean,0.43944503309848926,0.4476491061638885,0.00820407306539922,1.8669167808208043,False,7,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,are_deg_mean,9.496496836623605,9.345668415493591,-0.15082842113001327,-1.588253265649897,True,8,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,rpet_mean,0.061249229264019545,0.06238428898866788,0.0011350597246483352,1.8531820535333976,False,6,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,rper_deg_mean,0.14453323959100203,0.1417757109621108,-0.002757528628891226,-1.907885436384349,True,6,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,psnr,26.8518020530196,26.6163650006016,-0.23543705241799984,-0.8768016833772374,False,4,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,ssim,0.890643998096702,0.8834843305236539,-0.00715966757304809,-0.8038753518070374,False,0,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,lpips,0.22059706932461237,0.22060489969660294,7.83037199056369e-06,0.0035496264816803347,False,6,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd,depth_rmse,1.0710233914970184,1.0719901100565927,0.0009667185595743089,0.0902611994517688,False,4,14
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,sim3_ate_mean,7.5588484956759086,7.2428925460937785,-0.31595594958213,-4.179948172831816,True,8,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,are_deg_mean,55.19910407397035,44.8061655498678,-10.392938524102547,-18.828092771533644,True,6,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,rpet_mean,0.32578854457059453,0.3763820479684583,0.05059350339786378,15.529552601227437,False,4,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,rper_deg_mean,1.172237331075867,1.1134051311928281,-0.05883219988303878,-5.018795965919565,True,8,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,psnr,19.39036032029591,20.911312405142976,1.5209520848470675,7.843856739758914,True,7,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,ssim,0.6777937350099409,0.7163060842905857,0.03851234928064484,5.682016119561806,True,7,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,lpips,0.4303024905837937,0.4332102234886918,0.002907732904898097,0.6757415930716881,False,4,11
+Adaptive KF with Fold and deformation fixed,SplaTAM + Structure-Guided + Deformation,KFS4LAM_SplaTAM (Ours),c3vd_v2,depth_rmse,4.060953120298266,3.0472453437473006,-1.0137077765509654,-24.96231171652903,True,9,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,sim3_ate_mean,0.45440279202833134,0.45057739443258715,-0.0038253975957441844,-0.8418516925630337,True,12,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,are_deg_mean,10.340424003840683,9.645457407370284,-0.6949665964703993,-6.720871370576987,True,8,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,rpet_mean,0.06245070681336743,0.06457762000841596,0.002126913195048534,3.4057471941907114,False,7,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,rper_deg_mean,0.14644518883989957,0.1502867750717825,0.0038415862318829375,2.623224608684649,False,7,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,psnr,25.643735098718448,25.128808568803613,-0.5149265299148347,-2.0080012834813976,False,4,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,ssim,0.8776103418651147,0.8678832631698702,-0.009727078695244473,-1.1083596251352579,False,2,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,lpips,0.24158056603333455,0.24225780459589288,0.0006772385625583299,0.2803365244474554,False,10,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd,depth_rmse,1.1508607651683147,1.1682106455831607,0.017349880414845975,1.5075568600436684,False,7,14
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,sim3_ate_mean,7.683561806508982,7.797364992010835,0.11380318550185287,1.4811253994917672,False,8,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,are_deg_mean,59.49200674186388,56.866724648055154,-2.6252820938087282,-4.412831635012482,True,6,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,rpet_mean,0.31034738681778457,0.3599012928841132,0.049553906066328646,15.967238060046384,False,4,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,rper_deg_mean,1.3969147334531442,1.4377572234621756,0.040842490009031396,2.9237639943899607,False,3,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,psnr,20.135447949808718,19.650748424433502,-0.4846995253752162,-2.4071951445203466,False,3,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,ssim,0.7052859922006374,0.675715054606093,-0.029570937594544322,-4.192758387597761,False,3,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,lpips,0.4256930984875665,0.4474799249398398,0.02178682645227331,5.117965625864995,False,5,11
+MonoGS selector transfer at fixed25,SplaTAM,SplaTAM + MonoGS KFS,c3vd_v2,depth_rmse,4.94669204871121,5.292101548188127,0.3454094994769168,6.9826359934192395,False,4,11

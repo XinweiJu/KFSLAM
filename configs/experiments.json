@@ -1,0 +1,2202 @@
+[
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "final/splatam/configs/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "final/splatam/configs/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "final/splatam/configs/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "final/splatam/configs/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "final/splatam/configs/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "final/splatam/configs/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "final/splatam/configs/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "final/splatam/configs/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "final/splatam/configs/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "final/splatam/configs/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "final/splatam/configs/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "final/splatam/configs/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "final/splatam/configs/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "final/splatam/configs/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "final/splatam/configs/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "final/splatam/configs/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "final/splatam/configs/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "final/splatam/configs/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "final/splatam/configs/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "final/splatam/configs/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "final/splatam/configs/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "final/splatam/configs/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "final/splatam/configs/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "final/splatam/configs/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "final/splatam/configs/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/dynmap/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/dynmap/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/dynmap/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/dynmap/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/dynmap/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/dynmap/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/dynmap/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "dynmap",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/dynmap/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/structure_guided/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/structure_guided/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/structure_guided/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/structure_guided/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/structure_guided/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/structure_guided/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/structure_guided/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/structure_guided/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/motion_proposal_only/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_proposal_only",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/motion_proposal_only/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "structure_guided_deformation",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/structure_guided_deformation/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "monogs_frame_selection",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/monogs_frame_selection/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "final/endogslam/configs/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "final/endogslam/configs/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "final/endogslam/configs/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "final/endogslam/configs/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "final/endogslam/configs/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "final/endogslam/configs/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "final/endogslam/configs/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "final/endogslam/configs/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "final/endogslam/configs/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "final/endogslam/configs/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "final/endogslam/configs/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "final/endogslam/configs/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "final/endogslam/configs/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "final/endogslam/configs/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "final/endogslam/configs/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "final/endogslam/configs/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "final/endogslam/configs/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "final/endogslam/configs/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "final/endogslam/configs/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "final/endogslam/configs/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "final/endogslam/configs/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "final/endogslam/configs/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "final/endogslam/configs/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "final/endogslam/configs/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "full",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "final/endogslam/configs/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/motion_and_structure_guided/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/backbone/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/backbone/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/backbone/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/backbone/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/backbone/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/backbone/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/backbone/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/backbone/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/backbone/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/backbone/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/backbone/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/backbone/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/backbone/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/backbone/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/backbone/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/backbone/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/backbone/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/backbone/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "backbone",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/backbone/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/splatam/motion_guided/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/splatam/motion_guided/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/splatam/motion_guided/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/splatam/motion_guided/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/splatam/motion_guided/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/splatam/motion_guided/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/splatam/motion_guided/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "splatam",
+    "variant": "motion_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/splatam/motion_guided/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_sigmoid_t2_v1",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c2_sigmoid_t2_v1.json",
+    "input_frames": 466
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_b",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t2_b.json",
+    "input_frames": 103
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t2_v1",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_rectum_t2_v1.json",
+    "input_frames": 165
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/cecum_t2_a.json",
+    "input_frames": 370
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t2_c",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/cecum_t2_c.json",
+    "input_frames": 595
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t3_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/cecum_t3_a.json",
+    "input_frames": 730
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "cecum_t4_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/cecum_t4_a.json",
+    "input_frames": 465
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/sigmoid_t3_a.json",
+    "input_frames": 613
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "sigmoid_t3_b",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/sigmoid_t3_b.json",
+    "input_frames": 536
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t1_a.json",
+    "input_frames": 61
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t1_b",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t1_b.json",
+    "input_frames": 700
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t2_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t2_a.json",
+    "input_frames": 194
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t3_a.json",
+    "input_frames": 250
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t3_b",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t3_b.json",
+    "input_frames": 214
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_a",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t4_a.json",
+    "input_frames": 382
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd",
+    "sequence": "trans_t4_b",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd/trans_t4_b.json",
+    "input_frames": 597
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_ascending_t2_v1",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_ascending_t2_v1.json",
+    "input_frames": 374
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v2",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_descending_t2_v2.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_descending_t2_v3",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_descending_t2_v3.json",
+    "input_frames": 617
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_rectum_t3_v3",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_rectum_t3_v3.json",
+    "input_frames": 220
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t2_v1",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_sigmoid1_t2_v1.json",
+    "input_frames": 354
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c1_sigmoid1_t3_v2",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c1_sigmoid1_t3_v2.json",
+    "input_frames": 464
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_ascending_t3_v3",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c2_ascending_t3_v3.json",
+    "input_frames": 522
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_rectum_t3_v3",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c2_rectum_t3_v3.json",
+    "input_frames": 333
+  },
+  {
+    "backbone": "endogslam",
+    "variant": "motion_and_structure_guided",
+    "dataset": "c3vd_v2",
+    "sequence": "c2_transverse2_t3_v3",
+    "config": "ablations/endogslam/motion_and_structure_guided/c3vd_v2/c2_transverse2_t3_v3.json",
+    "input_frames": 733
+  }
+]

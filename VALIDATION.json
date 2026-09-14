@@ -1,0 +1,29 @@
+{
+  "anonymization": "no local user names, machine paths or internal numbered component labels in scanned text; PNG metadata stripped; no Git history imported",
+  "resolved_configurations": 275,
+  "configuration_sets": [
+    "endogslam/full",
+    "endogslam/motion_and_structure_guided",
+    "splatam/backbone",
+    "splatam/dynmap",
+    "splatam/full",
+    "splatam/monogs_frame_selection",
+    "splatam/motion_and_structure_guided",
+    "splatam/motion_guided",
+    "splatam/motion_proposal_only",
+    "splatam/structure_guided",
+    "splatam/structure_guided_deformation"
+  ],
+  "third_party_notices": "retained",
+  "validation_scope": "syntax, configuration resolution, both full backbones real-data short runs and paper evaluation; not full-sequence retraining",
+  "public_destination": "upload pending repository access; GitHub connection returned 404",
+  "smoke_tests": {
+    "splatam_full": "3-frame training + native evaluation + paper metrics passed",
+    "endogslam_full": "9 input frames with native train/held-out split + paper metrics passed"
+  },
+  "checkpoint_audit": "All 25 EndoGSLAM released checkpoints lack deformation coefficients despite configuration flags; see CHECKPOINT_AUDIT.md",
+  "render_checkpoint_tests": "Both backbones: actual final sigmoid parameters rendered at all processed-frame indices sampled every 8 frames",
+  "project_page": "Firefox HTTP smoke check passed, no missing resources; local-only media",
+  "reconstruction_archives": 50,
+  "camera_replay_videos": "4 videos; both methods on trans_t2_b and c1_rectum_t2_v1; all saved processed frames"
+}
