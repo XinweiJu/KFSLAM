@@ -2663,6 +2663,19 @@
   "replay": "Final-checkpoint rendered observations accumulated in frame order, not intermediate optimization snapshots",
   "mesh_triangles": 70650,
   "mesh_vertices": 211950,
+  "comparison_layout": {
+    "image_box_width": 288,
+    "image_box_height": 230,
+    "rgb_y": [
+      92,
+      322
+    ],
+    "depth_y": [
+      347,
+      577
+    ],
+    "metric_labels_outside_image": true
+  },
   "metrics": {
     "trajectory_ate_mean_mm": {
       "SplaTAM": 5.218644147220748,
