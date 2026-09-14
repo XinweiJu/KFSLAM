@@ -2,8 +2,6 @@
 
 [Reconstruction Release](../../releases/tag/reconstructions-v1) · [Videos](#videos) · [Installation & Usage](USAGE.md)
 
-![Project Page — coming soon](assets/project-page-pending.svg)
-
 Fold-aware Gaussian SLAM with adaptive keyframe observation selection, evaluated with SplaTAM and EndoGSLAM.
 
 ![Pipeline](assets/pipeline.png)
@@ -61,7 +59,7 @@ Download a sequence archive from the Release, extract it, and run after [install
 python render_checkpoint.py --backbone splatam --checkpoint params.npz --frames all --output rendered
 ```
 
-Use `--backbone endogslam` for EndoGSLAM. The project page with figures and synchronized camera/trajectory videos is coming soon.
+The synchronized camera/trajectory videos are available in the [Videos](#videos) section.
 
 ## Code & ablations
 
