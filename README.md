@@ -42,14 +42,16 @@ RGB and depth reconstruction on **trans_t2_b (C3VD)** and **c1_rectum_t2_v1 (C3V
 
 ## Videos
 
-Top: six methods and GT RGB at the same frame. Bottom: reconstructed RGB mesh and moving camera, GT/baseline/KFS⁴LAM trajectories, and synchronized KFS⁴LAM render.
+Synchronized RGB and depth comparisons above a progressively accumulated observed surface, moving camera, GT/baseline/KFS⁴LAM trajectories, and the current render.
 
-| Sequence | Video | RGB mesh |
+| Sequence | Comparison | Video |
 |---|---|---|
-| c2_sigmoid_t2_v1 · SplaTAM comparison | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__comparison_mesh_gt.mp4) | [PLY](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__reconstruction.ply) |
-| trans_t2_c · historical EndoGSLAM comparison | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__comparison_mesh_gt.mp4) | [PLY](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__reconstruction.ply) |
+| trans_t2_b | Main | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_b__comparison_rgbd_surface.mp4) |
+| c1_rectum_t2_v1 | Main | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c1_rectum_t2_v1__comparison_rgbd_surface.mp4) |
+| c2_sigmoid_t2_v1 | SplaTAM backbone | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__comparison_rgbd_surface.mp4) |
+| trans_t2_c | EndoGSLAM backbone | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__comparison_rgbd_surface.mp4) |
 
-Final-checkpoint replays, not online map growth. The triangle meshes are extracted from the saved reconstructions, not GT. The historical EndoGSLAM example corresponds to the trajectory illustration and is distinct from the released SplaTAM configuration.
+Local surface patches accumulate from final-checkpoint rendered observations, preserving gaps; these are not intermediate optimization snapshots. EndoGSLAM comparisons assess whether keyframe selection and fold supervision transfer beyond the primary SplaTAM backbone.
 
 ## Reconstruction replay
 

@@ -1,0 +1,2676 @@
+{
+  "sequence": "c2_sigmoid_t2_v1",
+  "focus": "KFS\u2074LAM",
+  "fps": 12,
+  "frame_count": 204,
+  "frames": [
+    {
+      "raw_frame": 0,
+      "method_frame_indices": {
+        "GaussianSLAM": 0,
+        "Endo-2DTAM": 0,
+        "MonoGS": 0,
+        "EndoGSLAM": 0,
+        "SplaTAM": 0,
+        "KFS4LAM": 0,
+        "GT": 0
+      },
+      "observed_surface_patches": 8000
+    },
+    {
+      "raw_frame": 2,
+      "method_frame_indices": {
+        "GaussianSLAM": 2,
+        "Endo-2DTAM": 2,
+        "MonoGS": 2,
+        "EndoGSLAM": 2,
+        "SplaTAM": 2,
+        "KFS4LAM": 2,
+        "GT": 2
+      },
+      "observed_surface_patches": 8802
+    },
+    {
+      "raw_frame": 4,
+      "method_frame_indices": {
+        "GaussianSLAM": 4,
+        "Endo-2DTAM": 4,
+        "MonoGS": 4,
+        "EndoGSLAM": 4,
+        "SplaTAM": 4,
+        "KFS4LAM": 4,
+        "GT": 4
+      },
+      "observed_surface_patches": 10751
+    },
+    {
+      "raw_frame": 6,
+      "method_frame_indices": {
+        "GaussianSLAM": 6,
+        "Endo-2DTAM": 6,
+        "MonoGS": 6,
+        "EndoGSLAM": 6,
+        "SplaTAM": 6,
+        "KFS4LAM": 6,
+        "GT": 6
+      },
+      "observed_surface_patches": 11247
+    },
+    {
+      "raw_frame": 9,
+      "method_frame_indices": {
+        "GaussianSLAM": 9,
+        "Endo-2DTAM": 9,
+        "MonoGS": 9,
+        "EndoGSLAM": 8,
+        "SplaTAM": 9,
+        "KFS4LAM": 9,
+        "GT": 9
+      },
+      "observed_surface_patches": 11765
+    },
+    {
+      "raw_frame": 11,
+      "method_frame_indices": {
+        "GaussianSLAM": 11,
+        "Endo-2DTAM": 11,
+        "MonoGS": 11,
+        "EndoGSLAM": 10,
+        "SplaTAM": 11,
+        "KFS4LAM": 11,
+        "GT": 11
+      },
+      "observed_surface_patches": 13450
+    },
+    {
+      "raw_frame": 13,
+      "method_frame_indices": {
+        "GaussianSLAM": 13,
+        "Endo-2DTAM": 13,
+        "MonoGS": 13,
+        "EndoGSLAM": 12,
+        "SplaTAM": 13,
+        "KFS4LAM": 13,
+        "GT": 13
+      },
+      "observed_surface_patches": 14695
+    },
+    {
+      "raw_frame": 16,
+      "method_frame_indices": {
+        "GaussianSLAM": 16,
+        "Endo-2DTAM": 16,
+        "MonoGS": 16,
+        "EndoGSLAM": 14,
+        "SplaTAM": 16,
+        "KFS4LAM": 16,
+        "GT": 16
+      },
+      "observed_surface_patches": 17479
+    },
+    {
+      "raw_frame": 18,
+      "method_frame_indices": {
+        "GaussianSLAM": 18,
+        "Endo-2DTAM": 18,
+        "MonoGS": 18,
+        "EndoGSLAM": 16,
+        "SplaTAM": 18,
+        "KFS4LAM": 18,
+        "GT": 18
+      },
+      "observed_surface_patches": 19555
+    },
+    {
+      "raw_frame": 20,
+      "method_frame_indices": {
+        "GaussianSLAM": 20,
+        "Endo-2DTAM": 20,
+        "MonoGS": 20,
+        "EndoGSLAM": 18,
+        "SplaTAM": 20,
+        "KFS4LAM": 20,
+        "GT": 20
+      },
+      "observed_surface_patches": 21623
+    },
+    {
+      "raw_frame": 22,
+      "method_frame_indices": {
+        "GaussianSLAM": 22,
+        "Endo-2DTAM": 22,
+        "MonoGS": 22,
+        "EndoGSLAM": 20,
+        "SplaTAM": 22,
+        "KFS4LAM": 22,
+        "GT": 22
+      },
+      "observed_surface_patches": 22567
+    },
+    {
+      "raw_frame": 25,
+      "method_frame_indices": {
+        "GaussianSLAM": 25,
+        "Endo-2DTAM": 25,
+        "MonoGS": 25,
+        "EndoGSLAM": 22,
+        "SplaTAM": 25,
+        "KFS4LAM": 25,
+        "GT": 25
+      },
+      "observed_surface_patches": 24290
+    },
+    {
+      "raw_frame": 27,
+      "method_frame_indices": {
+        "GaussianSLAM": 27,
+        "Endo-2DTAM": 27,
+        "MonoGS": 27,
+        "EndoGSLAM": 24,
+        "SplaTAM": 27,
+        "KFS4LAM": 27,
+        "GT": 27
+      },
+      "observed_surface_patches": 25491
+    },
+    {
+      "raw_frame": 29,
+      "method_frame_indices": {
+        "GaussianSLAM": 29,
+        "Endo-2DTAM": 29,
+        "MonoGS": 29,
+        "EndoGSLAM": 26,
+        "SplaTAM": 29,
+        "KFS4LAM": 29,
+        "GT": 29
+      },
+      "observed_surface_patches": 26644
+    },
+    {
+      "raw_frame": 32,
+      "method_frame_indices": {
+        "GaussianSLAM": 32,
+        "Endo-2DTAM": 32,
+        "MonoGS": 32,
+        "EndoGSLAM": 28,
+        "SplaTAM": 32,
+        "KFS4LAM": 32,
+        "GT": 32
+      },
+      "observed_surface_patches": 27446
+    },
+    {
+      "raw_frame": 34,
+      "method_frame_indices": {
+        "GaussianSLAM": 34,
+        "Endo-2DTAM": 34,
+        "MonoGS": 34,
+        "EndoGSLAM": 30,
+        "SplaTAM": 34,
+        "KFS4LAM": 34,
+        "GT": 34
+      },
+      "observed_surface_patches": 28160
+    },
+    {
+      "raw_frame": 36,
+      "method_frame_indices": {
+        "GaussianSLAM": 36,
+        "Endo-2DTAM": 36,
+        "MonoGS": 36,
+        "EndoGSLAM": 32,
+        "SplaTAM": 36,
+        "KFS4LAM": 36,
+        "GT": 36
+      },
+      "observed_surface_patches": 29013
+    },
+    {
+      "raw_frame": 38,
+      "method_frame_indices": {
+        "GaussianSLAM": 38,
+        "Endo-2DTAM": 38,
+        "MonoGS": 38,
+        "EndoGSLAM": 34,
+        "SplaTAM": 38,
+        "KFS4LAM": 38,
+        "GT": 38
+      },
+      "observed_surface_patches": 29717
+    },
+    {
+      "raw_frame": 41,
+      "method_frame_indices": {
+        "GaussianSLAM": 41,
+        "Endo-2DTAM": 41,
+        "MonoGS": 41,
+        "EndoGSLAM": 36,
+        "SplaTAM": 41,
+        "KFS4LAM": 41,
+        "GT": 41
+      },
+      "observed_surface_patches": 30730
+    },
+    {
+      "raw_frame": 43,
+      "method_frame_indices": {
+        "GaussianSLAM": 43,
+        "Endo-2DTAM": 43,
+        "MonoGS": 43,
+        "EndoGSLAM": 38,
+        "SplaTAM": 43,
+        "KFS4LAM": 43,
+        "GT": 43
+      },
+      "observed_surface_patches": 31370
+    },
+    {
+      "raw_frame": 45,
+      "method_frame_indices": {
+        "GaussianSLAM": 45,
+        "Endo-2DTAM": 45,
+        "MonoGS": 45,
+        "EndoGSLAM": 40,
+        "SplaTAM": 45,
+        "KFS4LAM": 45,
+        "GT": 45
+      },
+      "observed_surface_patches": 31972
+    },
+    {
+      "raw_frame": 48,
+      "method_frame_indices": {
+        "GaussianSLAM": 48,
+        "Endo-2DTAM": 48,
+        "MonoGS": 48,
+        "EndoGSLAM": 42,
+        "SplaTAM": 48,
+        "KFS4LAM": 48,
+        "GT": 48
+      },
+      "observed_surface_patches": 32234
+    },
+    {
+      "raw_frame": 50,
+      "method_frame_indices": {
+        "GaussianSLAM": 50,
+        "Endo-2DTAM": 50,
+        "MonoGS": 50,
+        "EndoGSLAM": 44,
+        "SplaTAM": 50,
+        "KFS4LAM": 50,
+        "GT": 50
+      },
+      "observed_surface_patches": 32681
+    },
+    {
+      "raw_frame": 52,
+      "method_frame_indices": {
+        "GaussianSLAM": 52,
+        "Endo-2DTAM": 52,
+        "MonoGS": 52,
+        "EndoGSLAM": 46,
+        "SplaTAM": 52,
+        "KFS4LAM": 52,
+        "GT": 52
+      },
+      "observed_surface_patches": 33401
+    },
+    {
+      "raw_frame": 54,
+      "method_frame_indices": {
+        "GaussianSLAM": 54,
+        "Endo-2DTAM": 54,
+        "MonoGS": 54,
+        "EndoGSLAM": 48,
+        "SplaTAM": 54,
+        "KFS4LAM": 54,
+        "GT": 54
+      },
+      "observed_surface_patches": 33919
+    },
+    {
+      "raw_frame": 57,
+      "method_frame_indices": {
+        "GaussianSLAM": 57,
+        "Endo-2DTAM": 57,
+        "MonoGS": 57,
+        "EndoGSLAM": 50,
+        "SplaTAM": 57,
+        "KFS4LAM": 57,
+        "GT": 57
+      },
+      "observed_surface_patches": 34324
+    },
+    {
+      "raw_frame": 59,
+      "method_frame_indices": {
+        "GaussianSLAM": 59,
+        "Endo-2DTAM": 59,
+        "MonoGS": 59,
+        "EndoGSLAM": 52,
+        "SplaTAM": 59,
+        "KFS4LAM": 59,
+        "GT": 59
+      },
+      "observed_surface_patches": 34759
+    },
+    {
+      "raw_frame": 61,
+      "method_frame_indices": {
+        "GaussianSLAM": 61,
+        "Endo-2DTAM": 61,
+        "MonoGS": 61,
+        "EndoGSLAM": 54,
+        "SplaTAM": 61,
+        "KFS4LAM": 61,
+        "GT": 61
+      },
+      "observed_surface_patches": 35271
+    },
+    {
+      "raw_frame": 64,
+      "method_frame_indices": {
+        "GaussianSLAM": 64,
+        "Endo-2DTAM": 64,
+        "MonoGS": 64,
+        "EndoGSLAM": 56,
+        "SplaTAM": 64,
+        "KFS4LAM": 64,
+        "GT": 64
+      },
+      "observed_surface_patches": 35945
+    },
+    {
+      "raw_frame": 66,
+      "method_frame_indices": {
+        "GaussianSLAM": 66,
+        "Endo-2DTAM": 66,
+        "MonoGS": 66,
+        "EndoGSLAM": 58,
+        "SplaTAM": 66,
+        "KFS4LAM": 66,
+        "GT": 66
+      },
+      "observed_surface_patches": 36596
+    },
+    {
+      "raw_frame": 68,
+      "method_frame_indices": {
+        "GaussianSLAM": 68,
+        "Endo-2DTAM": 68,
+        "MonoGS": 68,
+        "EndoGSLAM": 60,
+        "SplaTAM": 68,
+        "KFS4LAM": 68,
+        "GT": 68
+      },
+      "observed_surface_patches": 37228
+    },
+    {
+      "raw_frame": 70,
+      "method_frame_indices": {
+        "GaussianSLAM": 70,
+        "Endo-2DTAM": 70,
+        "MonoGS": 70,
+        "EndoGSLAM": 62,
+        "SplaTAM": 70,
+        "KFS4LAM": 70,
+        "GT": 70
+      },
+      "observed_surface_patches": 37943
+    },
+    {
+      "raw_frame": 73,
+      "method_frame_indices": {
+        "GaussianSLAM": 73,
+        "Endo-2DTAM": 73,
+        "MonoGS": 73,
+        "EndoGSLAM": 64,
+        "SplaTAM": 73,
+        "KFS4LAM": 73,
+        "GT": 73
+      },
+      "observed_surface_patches": 38636
+    },
+    {
+      "raw_frame": 75,
+      "method_frame_indices": {
+        "GaussianSLAM": 75,
+        "Endo-2DTAM": 75,
+        "MonoGS": 75,
+        "EndoGSLAM": 66,
+        "SplaTAM": 75,
+        "KFS4LAM": 75,
+        "GT": 75
+      },
+      "observed_surface_patches": 39321
+    },
+    {
+      "raw_frame": 77,
+      "method_frame_indices": {
+        "GaussianSLAM": 77,
+        "Endo-2DTAM": 77,
+        "MonoGS": 77,
+        "EndoGSLAM": 68,
+        "SplaTAM": 77,
+        "KFS4LAM": 77,
+        "GT": 77
+      },
+      "observed_surface_patches": 39956
+    },
+    {
+      "raw_frame": 80,
+      "method_frame_indices": {
+        "GaussianSLAM": 80,
+        "Endo-2DTAM": 80,
+        "MonoGS": 80,
+        "EndoGSLAM": 70,
+        "SplaTAM": 80,
+        "KFS4LAM": 80,
+        "GT": 80
+      },
+      "observed_surface_patches": 40616
+    },
+    {
+      "raw_frame": 82,
+      "method_frame_indices": {
+        "GaussianSLAM": 82,
+        "Endo-2DTAM": 82,
+        "MonoGS": 82,
+        "EndoGSLAM": 72,
+        "SplaTAM": 82,
+        "KFS4LAM": 82,
+        "GT": 82
+      },
+      "observed_surface_patches": 41159
+    },
+    {
+      "raw_frame": 84,
+      "method_frame_indices": {
+        "GaussianSLAM": 84,
+        "Endo-2DTAM": 84,
+        "MonoGS": 84,
+        "EndoGSLAM": 74,
+        "SplaTAM": 84,
+        "KFS4LAM": 84,
+        "GT": 84
+      },
+      "observed_surface_patches": 41619
+    },
+    {
+      "raw_frame": 86,
+      "method_frame_indices": {
+        "GaussianSLAM": 86,
+        "Endo-2DTAM": 86,
+        "MonoGS": 86,
+        "EndoGSLAM": 76,
+        "SplaTAM": 86,
+        "KFS4LAM": 86,
+        "GT": 86
+      },
+      "observed_surface_patches": 41956
+    },
+    {
+      "raw_frame": 89,
+      "method_frame_indices": {
+        "GaussianSLAM": 89,
+        "Endo-2DTAM": 89,
+        "MonoGS": 89,
+        "EndoGSLAM": 78,
+        "SplaTAM": 89,
+        "KFS4LAM": 89,
+        "GT": 89
+      },
+      "observed_surface_patches": 42310
+    },
+    {
+      "raw_frame": 91,
+      "method_frame_indices": {
+        "GaussianSLAM": 91,
+        "Endo-2DTAM": 91,
+        "MonoGS": 91,
+        "EndoGSLAM": 80,
+        "SplaTAM": 91,
+        "KFS4LAM": 91,
+        "GT": 91
+      },
+      "observed_surface_patches": 42654
+    },
+    {
+      "raw_frame": 93,
+      "method_frame_indices": {
+        "GaussianSLAM": 93,
+        "Endo-2DTAM": 93,
+        "MonoGS": 93,
+        "EndoGSLAM": 82,
+        "SplaTAM": 93,
+        "KFS4LAM": 93,
+        "GT": 93
+      },
+      "observed_surface_patches": 42943
+    },
+    {
+      "raw_frame": 96,
+      "method_frame_indices": {
+        "GaussianSLAM": 96,
+        "Endo-2DTAM": 96,
+        "MonoGS": 96,
+        "EndoGSLAM": 84,
+        "SplaTAM": 96,
+        "KFS4LAM": 96,
+        "GT": 96
+      },
+      "observed_surface_patches": 43271
+    },
+    {
+      "raw_frame": 98,
+      "method_frame_indices": {
+        "GaussianSLAM": 98,
+        "Endo-2DTAM": 98,
+        "MonoGS": 98,
+        "EndoGSLAM": 86,
+        "SplaTAM": 98,
+        "KFS4LAM": 98,
+        "GT": 98
+      },
+      "observed_surface_patches": 43757
+    },
+    {
+      "raw_frame": 100,
+      "method_frame_indices": {
+        "GaussianSLAM": 100,
+        "Endo-2DTAM": 100,
+        "MonoGS": 100,
+        "EndoGSLAM": 88,
+        "SplaTAM": 100,
+        "KFS4LAM": 100,
+        "GT": 100
+      },
+      "observed_surface_patches": 44176
+    },
+    {
+      "raw_frame": 102,
+      "method_frame_indices": {
+        "GaussianSLAM": 102,
+        "Endo-2DTAM": 102,
+        "MonoGS": 102,
+        "EndoGSLAM": 90,
+        "SplaTAM": 102,
+        "KFS4LAM": 102,
+        "GT": 102
+      },
+      "observed_surface_patches": 44478
+    },
+    {
+      "raw_frame": 105,
+      "method_frame_indices": {
+        "GaussianSLAM": 105,
+        "Endo-2DTAM": 105,
+        "MonoGS": 105,
+        "EndoGSLAM": 92,
+        "SplaTAM": 105,
+        "KFS4LAM": 105,
+        "GT": 105
+      },
+      "observed_surface_patches": 44750
+    },
+    {
+      "raw_frame": 107,
+      "method_frame_indices": {
+        "GaussianSLAM": 107,
+        "Endo-2DTAM": 107,
+        "MonoGS": 107,
+        "EndoGSLAM": 94,
+        "SplaTAM": 107,
+        "KFS4LAM": 107,
+        "GT": 107
+      },
+      "observed_surface_patches": 44993
+    },
+    {
+      "raw_frame": 109,
+      "method_frame_indices": {
+        "GaussianSLAM": 109,
+        "Endo-2DTAM": 109,
+        "MonoGS": 109,
+        "EndoGSLAM": 96,
+        "SplaTAM": 109,
+        "KFS4LAM": 109,
+        "GT": 109
+      },
+      "observed_surface_patches": 45297
+    },
+    {
+      "raw_frame": 112,
+      "method_frame_indices": {
+        "GaussianSLAM": 112,
+        "Endo-2DTAM": 112,
+        "MonoGS": 112,
+        "EndoGSLAM": 98,
+        "SplaTAM": 112,
+        "KFS4LAM": 112,
+        "GT": 112
+      },
+      "observed_surface_patches": 45617
+    },
+    {
+      "raw_frame": 114,
+      "method_frame_indices": {
+        "GaussianSLAM": 114,
+        "Endo-2DTAM": 114,
+        "MonoGS": 114,
+        "EndoGSLAM": 100,
+        "SplaTAM": 114,
+        "KFS4LAM": 114,
+        "GT": 114
+      },
+      "observed_surface_patches": 45988
+    },
+    {
+      "raw_frame": 116,
+      "method_frame_indices": {
+        "GaussianSLAM": 116,
+        "Endo-2DTAM": 116,
+        "MonoGS": 116,
+        "EndoGSLAM": 102,
+        "SplaTAM": 116,
+        "KFS4LAM": 116,
+        "GT": 116
+      },
+      "observed_surface_patches": 46252
+    },
+    {
+      "raw_frame": 118,
+      "method_frame_indices": {
+        "GaussianSLAM": 118,
+        "Endo-2DTAM": 118,
+        "MonoGS": 118,
+        "EndoGSLAM": 104,
+        "SplaTAM": 118,
+        "KFS4LAM": 118,
+        "GT": 118
+      },
+      "observed_surface_patches": 46434
+    },
+    {
+      "raw_frame": 121,
+      "method_frame_indices": {
+        "GaussianSLAM": 121,
+        "Endo-2DTAM": 121,
+        "MonoGS": 121,
+        "EndoGSLAM": 106,
+        "SplaTAM": 121,
+        "KFS4LAM": 121,
+        "GT": 121
+      },
+      "observed_surface_patches": 46638
+    },
+    {
+      "raw_frame": 123,
+      "method_frame_indices": {
+        "GaussianSLAM": 123,
+        "Endo-2DTAM": 123,
+        "MonoGS": 123,
+        "EndoGSLAM": 108,
+        "SplaTAM": 123,
+        "KFS4LAM": 123,
+        "GT": 123
+      },
+      "observed_surface_patches": 46828
+    },
+    {
+      "raw_frame": 125,
+      "method_frame_indices": {
+        "GaussianSLAM": 125,
+        "Endo-2DTAM": 125,
+        "MonoGS": 125,
+        "EndoGSLAM": 110,
+        "SplaTAM": 125,
+        "KFS4LAM": 125,
+        "GT": 125
+      },
+      "observed_surface_patches": 47048
+    },
+    {
+      "raw_frame": 128,
+      "method_frame_indices": {
+        "GaussianSLAM": 128,
+        "Endo-2DTAM": 128,
+        "MonoGS": 128,
+        "EndoGSLAM": 112,
+        "SplaTAM": 128,
+        "KFS4LAM": 128,
+        "GT": 128
+      },
+      "observed_surface_patches": 47421
+    },
+    {
+      "raw_frame": 130,
+      "method_frame_indices": {
+        "GaussianSLAM": 130,
+        "Endo-2DTAM": 130,
+        "MonoGS": 130,
+        "EndoGSLAM": 114,
+        "SplaTAM": 130,
+        "KFS4LAM": 130,
+        "GT": 130
+      },
+      "observed_surface_patches": 47713
+    },
+    {
+      "raw_frame": 132,
+      "method_frame_indices": {
+        "GaussianSLAM": 132,
+        "Endo-2DTAM": 132,
+        "MonoGS": 132,
+        "EndoGSLAM": 116,
+        "SplaTAM": 132,
+        "KFS4LAM": 132,
+        "GT": 132
+      },
+      "observed_surface_patches": 47820
+    },
+    {
+      "raw_frame": 134,
+      "method_frame_indices": {
+        "GaussianSLAM": 134,
+        "Endo-2DTAM": 134,
+        "MonoGS": 134,
+        "EndoGSLAM": 118,
+        "SplaTAM": 134,
+        "KFS4LAM": 134,
+        "GT": 134
+      },
+      "observed_surface_patches": 48005
+    },
+    {
+      "raw_frame": 137,
+      "method_frame_indices": {
+        "GaussianSLAM": 137,
+        "Endo-2DTAM": 137,
+        "MonoGS": 137,
+        "EndoGSLAM": 120,
+        "SplaTAM": 137,
+        "KFS4LAM": 137,
+        "GT": 137
+      },
+      "observed_surface_patches": 48175
+    },
+    {
+      "raw_frame": 139,
+      "method_frame_indices": {
+        "GaussianSLAM": 139,
+        "Endo-2DTAM": 139,
+        "MonoGS": 139,
+        "EndoGSLAM": 122,
+        "SplaTAM": 139,
+        "KFS4LAM": 139,
+        "GT": 139
+      },
+      "observed_surface_patches": 48287
+    },
+    {
+      "raw_frame": 141,
+      "method_frame_indices": {
+        "GaussianSLAM": 141,
+        "Endo-2DTAM": 141,
+        "MonoGS": 141,
+        "EndoGSLAM": 124,
+        "SplaTAM": 141,
+        "KFS4LAM": 141,
+        "GT": 141
+      },
+      "observed_surface_patches": 48428
+    },
+    {
+      "raw_frame": 144,
+      "method_frame_indices": {
+        "GaussianSLAM": 144,
+        "Endo-2DTAM": 144,
+        "MonoGS": 144,
+        "EndoGSLAM": 126,
+        "SplaTAM": 144,
+        "KFS4LAM": 144,
+        "GT": 144
+      },
+      "observed_surface_patches": 48578
+    },
+    {
+      "raw_frame": 146,
+      "method_frame_indices": {
+        "GaussianSLAM": 146,
+        "Endo-2DTAM": 146,
+        "MonoGS": 146,
+        "EndoGSLAM": 128,
+        "SplaTAM": 146,
+        "KFS4LAM": 146,
+        "GT": 146
+      },
+      "observed_surface_patches": 48733
+    },
+    {
+      "raw_frame": 148,
+      "method_frame_indices": {
+        "GaussianSLAM": 148,
+        "Endo-2DTAM": 148,
+        "MonoGS": 148,
+        "EndoGSLAM": 130,
+        "SplaTAM": 148,
+        "KFS4LAM": 148,
+        "GT": 148
+      },
+      "observed_surface_patches": 48867
+    },
+    {
+      "raw_frame": 150,
+      "method_frame_indices": {
+        "GaussianSLAM": 150,
+        "Endo-2DTAM": 150,
+        "MonoGS": 150,
+        "EndoGSLAM": 132,
+        "SplaTAM": 150,
+        "KFS4LAM": 150,
+        "GT": 150
+      },
+      "observed_surface_patches": 49029
+    },
+    {
+      "raw_frame": 153,
+      "method_frame_indices": {
+        "GaussianSLAM": 153,
+        "Endo-2DTAM": 153,
+        "MonoGS": 153,
+        "EndoGSLAM": 134,
+        "SplaTAM": 153,
+        "KFS4LAM": 153,
+        "GT": 153
+      },
+      "observed_surface_patches": 49233
+    },
+    {
+      "raw_frame": 155,
+      "method_frame_indices": {
+        "GaussianSLAM": 155,
+        "Endo-2DTAM": 155,
+        "MonoGS": 155,
+        "EndoGSLAM": 136,
+        "SplaTAM": 155,
+        "KFS4LAM": 155,
+        "GT": 155
+      },
+      "observed_surface_patches": 49423
+    },
+    {
+      "raw_frame": 157,
+      "method_frame_indices": {
+        "GaussianSLAM": 157,
+        "Endo-2DTAM": 157,
+        "MonoGS": 157,
+        "EndoGSLAM": 138,
+        "SplaTAM": 157,
+        "KFS4LAM": 157,
+        "GT": 157
+      },
+      "observed_surface_patches": 49611
+    },
+    {
+      "raw_frame": 160,
+      "method_frame_indices": {
+        "GaussianSLAM": 160,
+        "Endo-2DTAM": 160,
+        "MonoGS": 160,
+        "EndoGSLAM": 140,
+        "SplaTAM": 160,
+        "KFS4LAM": 160,
+        "GT": 160
+      },
+      "observed_surface_patches": 49818
+    },
+    {
+      "raw_frame": 162,
+      "method_frame_indices": {
+        "GaussianSLAM": 162,
+        "Endo-2DTAM": 162,
+        "MonoGS": 162,
+        "EndoGSLAM": 142,
+        "SplaTAM": 162,
+        "KFS4LAM": 162,
+        "GT": 162
+      },
+      "observed_surface_patches": 50040
+    },
+    {
+      "raw_frame": 164,
+      "method_frame_indices": {
+        "GaussianSLAM": 164,
+        "Endo-2DTAM": 164,
+        "MonoGS": 164,
+        "EndoGSLAM": 144,
+        "SplaTAM": 164,
+        "KFS4LAM": 164,
+        "GT": 164
+      },
+      "observed_surface_patches": 50274
+    },
+    {
+      "raw_frame": 166,
+      "method_frame_indices": {
+        "GaussianSLAM": 166,
+        "Endo-2DTAM": 166,
+        "MonoGS": 166,
+        "EndoGSLAM": 146,
+        "SplaTAM": 166,
+        "KFS4LAM": 166,
+        "GT": 166
+      },
+      "observed_surface_patches": 50497
+    },
+    {
+      "raw_frame": 169,
+      "method_frame_indices": {
+        "GaussianSLAM": 169,
+        "Endo-2DTAM": 169,
+        "MonoGS": 169,
+        "EndoGSLAM": 148,
+        "SplaTAM": 169,
+        "KFS4LAM": 169,
+        "GT": 169
+      },
+      "observed_surface_patches": 50731
+    },
+    {
+      "raw_frame": 171,
+      "method_frame_indices": {
+        "GaussianSLAM": 171,
+        "Endo-2DTAM": 171,
+        "MonoGS": 171,
+        "EndoGSLAM": 150,
+        "SplaTAM": 171,
+        "KFS4LAM": 171,
+        "GT": 171
+      },
+      "observed_surface_patches": 50990
+    },
+    {
+      "raw_frame": 173,
+      "method_frame_indices": {
+        "GaussianSLAM": 173,
+        "Endo-2DTAM": 173,
+        "MonoGS": 173,
+        "EndoGSLAM": 152,
+        "SplaTAM": 173,
+        "KFS4LAM": 173,
+        "GT": 173
+      },
+      "observed_surface_patches": 51252
+    },
+    {
+      "raw_frame": 176,
+      "method_frame_indices": {
+        "GaussianSLAM": 176,
+        "Endo-2DTAM": 176,
+        "MonoGS": 176,
+        "EndoGSLAM": 154,
+        "SplaTAM": 176,
+        "KFS4LAM": 176,
+        "GT": 176
+      },
+      "observed_surface_patches": 51543
+    },
+    {
+      "raw_frame": 178,
+      "method_frame_indices": {
+        "GaussianSLAM": 178,
+        "Endo-2DTAM": 178,
+        "MonoGS": 178,
+        "EndoGSLAM": 156,
+        "SplaTAM": 178,
+        "KFS4LAM": 178,
+        "GT": 178
+      },
+      "observed_surface_patches": 51750
+    },
+    {
+      "raw_frame": 180,
+      "method_frame_indices": {
+        "GaussianSLAM": 180,
+        "Endo-2DTAM": 180,
+        "MonoGS": 180,
+        "EndoGSLAM": 158,
+        "SplaTAM": 180,
+        "KFS4LAM": 180,
+        "GT": 180
+      },
+      "observed_surface_patches": 51926
+    },
+    {
+      "raw_frame": 182,
+      "method_frame_indices": {
+        "GaussianSLAM": 182,
+        "Endo-2DTAM": 182,
+        "MonoGS": 182,
+        "EndoGSLAM": 160,
+        "SplaTAM": 182,
+        "KFS4LAM": 182,
+        "GT": 182
+      },
+      "observed_surface_patches": 52092
+    },
+    {
+      "raw_frame": 185,
+      "method_frame_indices": {
+        "GaussianSLAM": 185,
+        "Endo-2DTAM": 185,
+        "MonoGS": 185,
+        "EndoGSLAM": 162,
+        "SplaTAM": 185,
+        "KFS4LAM": 185,
+        "GT": 185
+      },
+      "observed_surface_patches": 52266
+    },
+    {
+      "raw_frame": 187,
+      "method_frame_indices": {
+        "GaussianSLAM": 187,
+        "Endo-2DTAM": 187,
+        "MonoGS": 187,
+        "EndoGSLAM": 164,
+        "SplaTAM": 187,
+        "KFS4LAM": 187,
+        "GT": 187
+      },
+      "observed_surface_patches": 52426
+    },
+    {
+      "raw_frame": 189,
+      "method_frame_indices": {
+        "GaussianSLAM": 189,
+        "Endo-2DTAM": 189,
+        "MonoGS": 189,
+        "EndoGSLAM": 166,
+        "SplaTAM": 189,
+        "KFS4LAM": 189,
+        "GT": 189
+      },
+      "observed_surface_patches": 52590
+    },
+    {
+      "raw_frame": 192,
+      "method_frame_indices": {
+        "GaussianSLAM": 192,
+        "Endo-2DTAM": 192,
+        "MonoGS": 192,
+        "EndoGSLAM": 168,
+        "SplaTAM": 192,
+        "KFS4LAM": 192,
+        "GT": 192
+      },
+      "observed_surface_patches": 52731
+    },
+    {
+      "raw_frame": 194,
+      "method_frame_indices": {
+        "GaussianSLAM": 194,
+        "Endo-2DTAM": 194,
+        "MonoGS": 194,
+        "EndoGSLAM": 170,
+        "SplaTAM": 194,
+        "KFS4LAM": 194,
+        "GT": 194
+      },
+      "observed_surface_patches": 52892
+    },
+    {
+      "raw_frame": 196,
+      "method_frame_indices": {
+        "GaussianSLAM": 196,
+        "Endo-2DTAM": 196,
+        "MonoGS": 196,
+        "EndoGSLAM": 172,
+        "SplaTAM": 196,
+        "KFS4LAM": 196,
+        "GT": 196
+      },
+      "observed_surface_patches": 53030
+    },
+    {
+      "raw_frame": 198,
+      "method_frame_indices": {
+        "GaussianSLAM": 198,
+        "Endo-2DTAM": 198,
+        "MonoGS": 198,
+        "EndoGSLAM": 174,
+        "SplaTAM": 198,
+        "KFS4LAM": 198,
+        "GT": 198
+      },
+      "observed_surface_patches": 53182
+    },
+    {
+      "raw_frame": 201,
+      "method_frame_indices": {
+        "GaussianSLAM": 201,
+        "Endo-2DTAM": 201,
+        "MonoGS": 201,
+        "EndoGSLAM": 176,
+        "SplaTAM": 201,
+        "KFS4LAM": 201,
+        "GT": 201
+      },
+      "observed_surface_patches": 53345
+    },
+    {
+      "raw_frame": 203,
+      "method_frame_indices": {
+        "GaussianSLAM": 203,
+        "Endo-2DTAM": 203,
+        "MonoGS": 203,
+        "EndoGSLAM": 178,
+        "SplaTAM": 203,
+        "KFS4LAM": 203,
+        "GT": 203
+      },
+      "observed_surface_patches": 53554
+    },
+    {
+      "raw_frame": 205,
+      "method_frame_indices": {
+        "GaussianSLAM": 205,
+        "Endo-2DTAM": 205,
+        "MonoGS": 205,
+        "EndoGSLAM": 180,
+        "SplaTAM": 205,
+        "KFS4LAM": 205,
+        "GT": 205
+      },
+      "observed_surface_patches": 53770
+    },
+    {
+      "raw_frame": 208,
+      "method_frame_indices": {
+        "GaussianSLAM": 208,
+        "Endo-2DTAM": 208,
+        "MonoGS": 208,
+        "EndoGSLAM": 182,
+        "SplaTAM": 208,
+        "KFS4LAM": 208,
+        "GT": 208
+      },
+      "observed_surface_patches": 54038
+    },
+    {
+      "raw_frame": 210,
+      "method_frame_indices": {
+        "GaussianSLAM": 210,
+        "Endo-2DTAM": 210,
+        "MonoGS": 210,
+        "EndoGSLAM": 184,
+        "SplaTAM": 210,
+        "KFS4LAM": 210,
+        "GT": 210
+      },
+      "observed_surface_patches": 54219
+    },
+    {
+      "raw_frame": 212,
+      "method_frame_indices": {
+        "GaussianSLAM": 212,
+        "Endo-2DTAM": 212,
+        "MonoGS": 212,
+        "EndoGSLAM": 186,
+        "SplaTAM": 212,
+        "KFS4LAM": 212,
+        "GT": 212
+      },
+      "observed_surface_patches": 54480
+    },
+    {
+      "raw_frame": 214,
+      "method_frame_indices": {
+        "GaussianSLAM": 214,
+        "Endo-2DTAM": 214,
+        "MonoGS": 214,
+        "EndoGSLAM": 188,
+        "SplaTAM": 214,
+        "KFS4LAM": 214,
+        "GT": 214
+      },
+      "observed_surface_patches": 54765
+    },
+    {
+      "raw_frame": 217,
+      "method_frame_indices": {
+        "GaussianSLAM": 217,
+        "Endo-2DTAM": 217,
+        "MonoGS": 217,
+        "EndoGSLAM": 190,
+        "SplaTAM": 217,
+        "KFS4LAM": 217,
+        "GT": 217
+      },
+      "observed_surface_patches": 55062
+    },
+    {
+      "raw_frame": 219,
+      "method_frame_indices": {
+        "GaussianSLAM": 219,
+        "Endo-2DTAM": 219,
+        "MonoGS": 219,
+        "EndoGSLAM": 192,
+        "SplaTAM": 219,
+        "KFS4LAM": 219,
+        "GT": 219
+      },
+      "observed_surface_patches": 55356
+    },
+    {
+      "raw_frame": 221,
+      "method_frame_indices": {
+        "GaussianSLAM": 221,
+        "Endo-2DTAM": 221,
+        "MonoGS": 221,
+        "EndoGSLAM": 194,
+        "SplaTAM": 221,
+        "KFS4LAM": 221,
+        "GT": 221
+      },
+      "observed_surface_patches": 55730
+    },
+    {
+      "raw_frame": 224,
+      "method_frame_indices": {
+        "GaussianSLAM": 224,
+        "Endo-2DTAM": 224,
+        "MonoGS": 224,
+        "EndoGSLAM": 196,
+        "SplaTAM": 224,
+        "KFS4LAM": 224,
+        "GT": 224
+      },
+      "observed_surface_patches": 56034
+    },
+    {
+      "raw_frame": 226,
+      "method_frame_indices": {
+        "GaussianSLAM": 226,
+        "Endo-2DTAM": 226,
+        "MonoGS": 226,
+        "EndoGSLAM": 198,
+        "SplaTAM": 226,
+        "KFS4LAM": 226,
+        "GT": 226
+      },
+      "observed_surface_patches": 56299
+    },
+    {
+      "raw_frame": 228,
+      "method_frame_indices": {
+        "GaussianSLAM": 228,
+        "Endo-2DTAM": 228,
+        "MonoGS": 228,
+        "EndoGSLAM": 200,
+        "SplaTAM": 228,
+        "KFS4LAM": 228,
+        "GT": 228
+      },
+      "observed_surface_patches": 56509
+    },
+    {
+      "raw_frame": 230,
+      "method_frame_indices": {
+        "GaussianSLAM": 230,
+        "Endo-2DTAM": 230,
+        "MonoGS": 230,
+        "EndoGSLAM": 202,
+        "SplaTAM": 230,
+        "KFS4LAM": 230,
+        "GT": 230
+      },
+      "observed_surface_patches": 56737
+    },
+    {
+      "raw_frame": 233,
+      "method_frame_indices": {
+        "GaussianSLAM": 233,
+        "Endo-2DTAM": 233,
+        "MonoGS": 233,
+        "EndoGSLAM": 204,
+        "SplaTAM": 233,
+        "KFS4LAM": 233,
+        "GT": 233
+      },
+      "observed_surface_patches": 56945
+    },
+    {
+      "raw_frame": 235,
+      "method_frame_indices": {
+        "GaussianSLAM": 235,
+        "Endo-2DTAM": 235,
+        "MonoGS": 235,
+        "EndoGSLAM": 206,
+        "SplaTAM": 235,
+        "KFS4LAM": 235,
+        "GT": 235
+      },
+      "observed_surface_patches": 57116
+    },
+    {
+      "raw_frame": 237,
+      "method_frame_indices": {
+        "GaussianSLAM": 237,
+        "Endo-2DTAM": 237,
+        "MonoGS": 237,
+        "EndoGSLAM": 208,
+        "SplaTAM": 237,
+        "KFS4LAM": 237,
+        "GT": 237
+      },
+      "observed_surface_patches": 57232
+    },
+    {
+      "raw_frame": 240,
+      "method_frame_indices": {
+        "GaussianSLAM": 240,
+        "Endo-2DTAM": 240,
+        "MonoGS": 240,
+        "EndoGSLAM": 210,
+        "SplaTAM": 240,
+        "KFS4LAM": 240,
+        "GT": 240
+      },
+      "observed_surface_patches": 57387
+    },
+    {
+      "raw_frame": 242,
+      "method_frame_indices": {
+        "GaussianSLAM": 242,
+        "Endo-2DTAM": 242,
+        "MonoGS": 242,
+        "EndoGSLAM": 212,
+        "SplaTAM": 242,
+        "KFS4LAM": 242,
+        "GT": 242
+      },
+      "observed_surface_patches": 57523
+    },
+    {
+      "raw_frame": 244,
+      "method_frame_indices": {
+        "GaussianSLAM": 244,
+        "Endo-2DTAM": 244,
+        "MonoGS": 244,
+        "EndoGSLAM": 214,
+        "SplaTAM": 244,
+        "KFS4LAM": 244,
+        "GT": 244
+      },
+      "observed_surface_patches": 57676
+    },
+    {
+      "raw_frame": 246,
+      "method_frame_indices": {
+        "GaussianSLAM": 246,
+        "Endo-2DTAM": 246,
+        "MonoGS": 246,
+        "EndoGSLAM": 216,
+        "SplaTAM": 246,
+        "KFS4LAM": 246,
+        "GT": 246
+      },
+      "observed_surface_patches": 57850
+    },
+    {
+      "raw_frame": 249,
+      "method_frame_indices": {
+        "GaussianSLAM": 249,
+        "Endo-2DTAM": 249,
+        "MonoGS": 249,
+        "EndoGSLAM": 218,
+        "SplaTAM": 249,
+        "KFS4LAM": 249,
+        "GT": 249
+      },
+      "observed_surface_patches": 57987
+    },
+    {
+      "raw_frame": 251,
+      "method_frame_indices": {
+        "GaussianSLAM": 251,
+        "Endo-2DTAM": 251,
+        "MonoGS": 251,
+        "EndoGSLAM": 220,
+        "SplaTAM": 251,
+        "KFS4LAM": 251,
+        "GT": 251
+      },
+      "observed_surface_patches": 58203
+    },
+    {
+      "raw_frame": 253,
+      "method_frame_indices": {
+        "GaussianSLAM": 253,
+        "Endo-2DTAM": 253,
+        "MonoGS": 253,
+        "EndoGSLAM": 222,
+        "SplaTAM": 253,
+        "KFS4LAM": 253,
+        "GT": 253
+      },
+      "observed_surface_patches": 58378
+    },
+    {
+      "raw_frame": 256,
+      "method_frame_indices": {
+        "GaussianSLAM": 256,
+        "Endo-2DTAM": 256,
+        "MonoGS": 256,
+        "EndoGSLAM": 224,
+        "SplaTAM": 256,
+        "KFS4LAM": 256,
+        "GT": 256
+      },
+      "observed_surface_patches": 58538
+    },
+    {
+      "raw_frame": 258,
+      "method_frame_indices": {
+        "GaussianSLAM": 258,
+        "Endo-2DTAM": 258,
+        "MonoGS": 258,
+        "EndoGSLAM": 226,
+        "SplaTAM": 258,
+        "KFS4LAM": 258,
+        "GT": 258
+      },
+      "observed_surface_patches": 58706
+    },
+    {
+      "raw_frame": 260,
+      "method_frame_indices": {
+        "GaussianSLAM": 260,
+        "Endo-2DTAM": 260,
+        "MonoGS": 260,
+        "EndoGSLAM": 228,
+        "SplaTAM": 260,
+        "KFS4LAM": 260,
+        "GT": 260
+      },
+      "observed_surface_patches": 58919
+    },
+    {
+      "raw_frame": 262,
+      "method_frame_indices": {
+        "GaussianSLAM": 262,
+        "Endo-2DTAM": 262,
+        "MonoGS": 262,
+        "EndoGSLAM": 230,
+        "SplaTAM": 262,
+        "KFS4LAM": 262,
+        "GT": 262
+      },
+      "observed_surface_patches": 59084
+    },
+    {
+      "raw_frame": 265,
+      "method_frame_indices": {
+        "GaussianSLAM": 265,
+        "Endo-2DTAM": 265,
+        "MonoGS": 265,
+        "EndoGSLAM": 232,
+        "SplaTAM": 265,
+        "KFS4LAM": 265,
+        "GT": 265
+      },
+      "observed_surface_patches": 59285
+    },
+    {
+      "raw_frame": 267,
+      "method_frame_indices": {
+        "GaussianSLAM": 267,
+        "Endo-2DTAM": 267,
+        "MonoGS": 267,
+        "EndoGSLAM": 234,
+        "SplaTAM": 267,
+        "KFS4LAM": 267,
+        "GT": 267
+      },
+      "observed_surface_patches": 59446
+    },
+    {
+      "raw_frame": 269,
+      "method_frame_indices": {
+        "GaussianSLAM": 269,
+        "Endo-2DTAM": 269,
+        "MonoGS": 269,
+        "EndoGSLAM": 236,
+        "SplaTAM": 269,
+        "KFS4LAM": 269,
+        "GT": 269
+      },
+      "observed_surface_patches": 59583
+    },
+    {
+      "raw_frame": 272,
+      "method_frame_indices": {
+        "GaussianSLAM": 272,
+        "Endo-2DTAM": 272,
+        "MonoGS": 272,
+        "EndoGSLAM": 238,
+        "SplaTAM": 272,
+        "KFS4LAM": 272,
+        "GT": 272
+      },
+      "observed_surface_patches": 59759
+    },
+    {
+      "raw_frame": 274,
+      "method_frame_indices": {
+        "GaussianSLAM": 274,
+        "Endo-2DTAM": 274,
+        "MonoGS": 274,
+        "EndoGSLAM": 240,
+        "SplaTAM": 274,
+        "KFS4LAM": 274,
+        "GT": 274
+      },
+      "observed_surface_patches": 59932
+    },
+    {
+      "raw_frame": 276,
+      "method_frame_indices": {
+        "GaussianSLAM": 276,
+        "Endo-2DTAM": 276,
+        "MonoGS": 276,
+        "EndoGSLAM": 242,
+        "SplaTAM": 276,
+        "KFS4LAM": 276,
+        "GT": 276
+      },
+      "observed_surface_patches": 60049
+    },
+    {
+      "raw_frame": 278,
+      "method_frame_indices": {
+        "GaussianSLAM": 278,
+        "Endo-2DTAM": 278,
+        "MonoGS": 278,
+        "EndoGSLAM": 244,
+        "SplaTAM": 278,
+        "KFS4LAM": 278,
+        "GT": 278
+      },
+      "observed_surface_patches": 60141
+    },
+    {
+      "raw_frame": 281,
+      "method_frame_indices": {
+        "GaussianSLAM": 281,
+        "Endo-2DTAM": 281,
+        "MonoGS": 281,
+        "EndoGSLAM": 246,
+        "SplaTAM": 281,
+        "KFS4LAM": 281,
+        "GT": 281
+      },
+      "observed_surface_patches": 60331
+    },
+    {
+      "raw_frame": 283,
+      "method_frame_indices": {
+        "GaussianSLAM": 283,
+        "Endo-2DTAM": 283,
+        "MonoGS": 283,
+        "EndoGSLAM": 248,
+        "SplaTAM": 283,
+        "KFS4LAM": 283,
+        "GT": 283
+      },
+      "observed_surface_patches": 60559
+    },
+    {
+      "raw_frame": 285,
+      "method_frame_indices": {
+        "GaussianSLAM": 285,
+        "Endo-2DTAM": 285,
+        "MonoGS": 285,
+        "EndoGSLAM": 250,
+        "SplaTAM": 285,
+        "KFS4LAM": 285,
+        "GT": 285
+      },
+      "observed_surface_patches": 60719
+    },
+    {
+      "raw_frame": 288,
+      "method_frame_indices": {
+        "GaussianSLAM": 288,
+        "Endo-2DTAM": 288,
+        "MonoGS": 288,
+        "EndoGSLAM": 252,
+        "SplaTAM": 288,
+        "KFS4LAM": 288,
+        "GT": 288
+      },
+      "observed_surface_patches": 60932
+    },
+    {
+      "raw_frame": 290,
+      "method_frame_indices": {
+        "GaussianSLAM": 290,
+        "Endo-2DTAM": 290,
+        "MonoGS": 290,
+        "EndoGSLAM": 254,
+        "SplaTAM": 290,
+        "KFS4LAM": 290,
+        "GT": 290
+      },
+      "observed_surface_patches": 61103
+    },
+    {
+      "raw_frame": 292,
+      "method_frame_indices": {
+        "GaussianSLAM": 292,
+        "Endo-2DTAM": 292,
+        "MonoGS": 292,
+        "EndoGSLAM": 256,
+        "SplaTAM": 292,
+        "KFS4LAM": 292,
+        "GT": 292
+      },
+      "observed_surface_patches": 61215
+    },
+    {
+      "raw_frame": 294,
+      "method_frame_indices": {
+        "GaussianSLAM": 294,
+        "Endo-2DTAM": 294,
+        "MonoGS": 294,
+        "EndoGSLAM": 258,
+        "SplaTAM": 294,
+        "KFS4LAM": 294,
+        "GT": 294
+      },
+      "observed_surface_patches": 61332
+    },
+    {
+      "raw_frame": 297,
+      "method_frame_indices": {
+        "GaussianSLAM": 297,
+        "Endo-2DTAM": 297,
+        "MonoGS": 297,
+        "EndoGSLAM": 260,
+        "SplaTAM": 297,
+        "KFS4LAM": 297,
+        "GT": 297
+      },
+      "observed_surface_patches": 61509
+    },
+    {
+      "raw_frame": 299,
+      "method_frame_indices": {
+        "GaussianSLAM": 299,
+        "Endo-2DTAM": 299,
+        "MonoGS": 299,
+        "EndoGSLAM": 262,
+        "SplaTAM": 299,
+        "KFS4LAM": 299,
+        "GT": 299
+      },
+      "observed_surface_patches": 61623
+    },
+    {
+      "raw_frame": 301,
+      "method_frame_indices": {
+        "GaussianSLAM": 301,
+        "Endo-2DTAM": 301,
+        "MonoGS": 301,
+        "EndoGSLAM": 264,
+        "SplaTAM": 301,
+        "KFS4LAM": 301,
+        "GT": 301
+      },
+      "observed_surface_patches": 61724
+    },
+    {
+      "raw_frame": 304,
+      "method_frame_indices": {
+        "GaussianSLAM": 304,
+        "Endo-2DTAM": 304,
+        "MonoGS": 304,
+        "EndoGSLAM": 266,
+        "SplaTAM": 304,
+        "KFS4LAM": 304,
+        "GT": 304
+      },
+      "observed_surface_patches": 61790
+    },
+    {
+      "raw_frame": 306,
+      "method_frame_indices": {
+        "GaussianSLAM": 306,
+        "Endo-2DTAM": 306,
+        "MonoGS": 306,
+        "EndoGSLAM": 268,
+        "SplaTAM": 306,
+        "KFS4LAM": 306,
+        "GT": 306
+      },
+      "observed_surface_patches": 61852
+    },
+    {
+      "raw_frame": 308,
+      "method_frame_indices": {
+        "GaussianSLAM": 308,
+        "Endo-2DTAM": 308,
+        "MonoGS": 308,
+        "EndoGSLAM": 270,
+        "SplaTAM": 308,
+        "KFS4LAM": 308,
+        "GT": 308
+      },
+      "observed_surface_patches": 61935
+    },
+    {
+      "raw_frame": 310,
+      "method_frame_indices": {
+        "GaussianSLAM": 310,
+        "Endo-2DTAM": 310,
+        "MonoGS": 310,
+        "EndoGSLAM": 272,
+        "SplaTAM": 310,
+        "KFS4LAM": 310,
+        "GT": 310
+      },
+      "observed_surface_patches": 62002
+    },
+    {
+      "raw_frame": 313,
+      "method_frame_indices": {
+        "GaussianSLAM": 313,
+        "Endo-2DTAM": 313,
+        "MonoGS": 313,
+        "EndoGSLAM": 274,
+        "SplaTAM": 313,
+        "KFS4LAM": 313,
+        "GT": 313
+      },
+      "observed_surface_patches": 62063
+    },
+    {
+      "raw_frame": 315,
+      "method_frame_indices": {
+        "GaussianSLAM": 315,
+        "Endo-2DTAM": 315,
+        "MonoGS": 315,
+        "EndoGSLAM": 276,
+        "SplaTAM": 315,
+        "KFS4LAM": 315,
+        "GT": 315
+      },
+      "observed_surface_patches": 62110
+    },
+    {
+      "raw_frame": 317,
+      "method_frame_indices": {
+        "GaussianSLAM": 317,
+        "Endo-2DTAM": 317,
+        "MonoGS": 317,
+        "EndoGSLAM": 278,
+        "SplaTAM": 317,
+        "KFS4LAM": 317,
+        "GT": 317
+      },
+      "observed_surface_patches": 62158
+    },
+    {
+      "raw_frame": 320,
+      "method_frame_indices": {
+        "GaussianSLAM": 320,
+        "Endo-2DTAM": 320,
+        "MonoGS": 320,
+        "EndoGSLAM": 280,
+        "SplaTAM": 320,
+        "KFS4LAM": 320,
+        "GT": 320
+      },
+      "observed_surface_patches": 62208
+    },
+    {
+      "raw_frame": 322,
+      "method_frame_indices": {
+        "GaussianSLAM": 322,
+        "Endo-2DTAM": 322,
+        "MonoGS": 322,
+        "EndoGSLAM": 282,
+        "SplaTAM": 322,
+        "KFS4LAM": 322,
+        "GT": 322
+      },
+      "observed_surface_patches": 62253
+    },
+    {
+      "raw_frame": 324,
+      "method_frame_indices": {
+        "GaussianSLAM": 324,
+        "Endo-2DTAM": 324,
+        "MonoGS": 324,
+        "EndoGSLAM": 284,
+        "SplaTAM": 324,
+        "KFS4LAM": 324,
+        "GT": 324
+      },
+      "observed_surface_patches": 62297
+    },
+    {
+      "raw_frame": 326,
+      "method_frame_indices": {
+        "GaussianSLAM": 326,
+        "Endo-2DTAM": 326,
+        "MonoGS": 326,
+        "EndoGSLAM": 286,
+        "SplaTAM": 326,
+        "KFS4LAM": 326,
+        "GT": 326
+      },
+      "observed_surface_patches": 62345
+    },
+    {
+      "raw_frame": 329,
+      "method_frame_indices": {
+        "GaussianSLAM": 329,
+        "Endo-2DTAM": 329,
+        "MonoGS": 329,
+        "EndoGSLAM": 288,
+        "SplaTAM": 329,
+        "KFS4LAM": 329,
+        "GT": 329
+      },
+      "observed_surface_patches": 62405
+    },
+    {
+      "raw_frame": 331,
+      "method_frame_indices": {
+        "GaussianSLAM": 331,
+        "Endo-2DTAM": 331,
+        "MonoGS": 331,
+        "EndoGSLAM": 290,
+        "SplaTAM": 331,
+        "KFS4LAM": 331,
+        "GT": 331
+      },
+      "observed_surface_patches": 62472
+    },
+    {
+      "raw_frame": 333,
+      "method_frame_indices": {
+        "GaussianSLAM": 333,
+        "Endo-2DTAM": 333,
+        "MonoGS": 333,
+        "EndoGSLAM": 292,
+        "SplaTAM": 333,
+        "KFS4LAM": 333,
+        "GT": 333
+      },
+      "observed_surface_patches": 62537
+    },
+    {
+      "raw_frame": 336,
+      "method_frame_indices": {
+        "GaussianSLAM": 336,
+        "Endo-2DTAM": 336,
+        "MonoGS": 336,
+        "EndoGSLAM": 294,
+        "SplaTAM": 336,
+        "KFS4LAM": 336,
+        "GT": 336
+      },
+      "observed_surface_patches": 62635
+    },
+    {
+      "raw_frame": 338,
+      "method_frame_indices": {
+        "GaussianSLAM": 338,
+        "Endo-2DTAM": 338,
+        "MonoGS": 338,
+        "EndoGSLAM": 296,
+        "SplaTAM": 338,
+        "KFS4LAM": 338,
+        "GT": 338
+      },
+      "observed_surface_patches": 62733
+    },
+    {
+      "raw_frame": 340,
+      "method_frame_indices": {
+        "GaussianSLAM": 340,
+        "Endo-2DTAM": 340,
+        "MonoGS": 340,
+        "EndoGSLAM": 298,
+        "SplaTAM": 340,
+        "KFS4LAM": 340,
+        "GT": 340
+      },
+      "observed_surface_patches": 62821
+    },
+    {
+      "raw_frame": 342,
+      "method_frame_indices": {
+        "GaussianSLAM": 342,
+        "Endo-2DTAM": 342,
+        "MonoGS": 342,
+        "EndoGSLAM": 300,
+        "SplaTAM": 342,
+        "KFS4LAM": 342,
+        "GT": 342
+      },
+      "observed_surface_patches": 62936
+    },
+    {
+      "raw_frame": 345,
+      "method_frame_indices": {
+        "GaussianSLAM": 345,
+        "Endo-2DTAM": 345,
+        "MonoGS": 345,
+        "EndoGSLAM": 302,
+        "SplaTAM": 345,
+        "KFS4LAM": 345,
+        "GT": 345
+      },
+      "observed_surface_patches": 63086
+    },
+    {
+      "raw_frame": 347,
+      "method_frame_indices": {
+        "GaussianSLAM": 347,
+        "Endo-2DTAM": 347,
+        "MonoGS": 347,
+        "EndoGSLAM": 304,
+        "SplaTAM": 347,
+        "KFS4LAM": 347,
+        "GT": 347
+      },
+      "observed_surface_patches": 63203
+    },
+    {
+      "raw_frame": 349,
+      "method_frame_indices": {
+        "GaussianSLAM": 349,
+        "Endo-2DTAM": 349,
+        "MonoGS": 349,
+        "EndoGSLAM": 306,
+        "SplaTAM": 349,
+        "KFS4LAM": 349,
+        "GT": 349
+      },
+      "observed_surface_patches": 63335
+    },
+    {
+      "raw_frame": 352,
+      "method_frame_indices": {
+        "GaussianSLAM": 352,
+        "Endo-2DTAM": 352,
+        "MonoGS": 352,
+        "EndoGSLAM": 308,
+        "SplaTAM": 352,
+        "KFS4LAM": 352,
+        "GT": 352
+      },
+      "observed_surface_patches": 63451
+    },
+    {
+      "raw_frame": 354,
+      "method_frame_indices": {
+        "GaussianSLAM": 354,
+        "Endo-2DTAM": 354,
+        "MonoGS": 354,
+        "EndoGSLAM": 310,
+        "SplaTAM": 354,
+        "KFS4LAM": 354,
+        "GT": 354
+      },
+      "observed_surface_patches": 63524
+    },
+    {
+      "raw_frame": 356,
+      "method_frame_indices": {
+        "GaussianSLAM": 356,
+        "Endo-2DTAM": 356,
+        "MonoGS": 356,
+        "EndoGSLAM": 312,
+        "SplaTAM": 356,
+        "KFS4LAM": 356,
+        "GT": 356
+      },
+      "observed_surface_patches": 63588
+    },
+    {
+      "raw_frame": 358,
+      "method_frame_indices": {
+        "GaussianSLAM": 358,
+        "Endo-2DTAM": 358,
+        "MonoGS": 358,
+        "EndoGSLAM": 314,
+        "SplaTAM": 358,
+        "KFS4LAM": 358,
+        "GT": 358
+      },
+      "observed_surface_patches": 63667
+    },
+    {
+      "raw_frame": 361,
+      "method_frame_indices": {
+        "GaussianSLAM": 361,
+        "Endo-2DTAM": 361,
+        "MonoGS": 361,
+        "EndoGSLAM": 316,
+        "SplaTAM": 361,
+        "KFS4LAM": 361,
+        "GT": 361
+      },
+      "observed_surface_patches": 63744
+    },
+    {
+      "raw_frame": 363,
+      "method_frame_indices": {
+        "GaussianSLAM": 363,
+        "Endo-2DTAM": 363,
+        "MonoGS": 363,
+        "EndoGSLAM": 318,
+        "SplaTAM": 363,
+        "KFS4LAM": 363,
+        "GT": 363
+      },
+      "observed_surface_patches": 63830
+    },
+    {
+      "raw_frame": 365,
+      "method_frame_indices": {
+        "GaussianSLAM": 365,
+        "Endo-2DTAM": 365,
+        "MonoGS": 365,
+        "EndoGSLAM": 320,
+        "SplaTAM": 365,
+        "KFS4LAM": 365,
+        "GT": 365
+      },
+      "observed_surface_patches": 63874
+    },
+    {
+      "raw_frame": 368,
+      "method_frame_indices": {
+        "GaussianSLAM": 368,
+        "Endo-2DTAM": 368,
+        "MonoGS": 368,
+        "EndoGSLAM": 322,
+        "SplaTAM": 368,
+        "KFS4LAM": 368,
+        "GT": 368
+      },
+      "observed_surface_patches": 63936
+    },
+    {
+      "raw_frame": 370,
+      "method_frame_indices": {
+        "GaussianSLAM": 370,
+        "Endo-2DTAM": 370,
+        "MonoGS": 370,
+        "EndoGSLAM": 324,
+        "SplaTAM": 370,
+        "KFS4LAM": 370,
+        "GT": 370
+      },
+      "observed_surface_patches": 63998
+    },
+    {
+      "raw_frame": 372,
+      "method_frame_indices": {
+        "GaussianSLAM": 372,
+        "Endo-2DTAM": 372,
+        "MonoGS": 372,
+        "EndoGSLAM": 326,
+        "SplaTAM": 372,
+        "KFS4LAM": 372,
+        "GT": 372
+      },
+      "observed_surface_patches": 64043
+    },
+    {
+      "raw_frame": 374,
+      "method_frame_indices": {
+        "GaussianSLAM": 374,
+        "Endo-2DTAM": 374,
+        "MonoGS": 374,
+        "EndoGSLAM": 328,
+        "SplaTAM": 374,
+        "KFS4LAM": 374,
+        "GT": 374
+      },
+      "observed_surface_patches": 64073
+    },
+    {
+      "raw_frame": 377,
+      "method_frame_indices": {
+        "GaussianSLAM": 377,
+        "Endo-2DTAM": 377,
+        "MonoGS": 377,
+        "EndoGSLAM": 330,
+        "SplaTAM": 377,
+        "KFS4LAM": 377,
+        "GT": 377
+      },
+      "observed_surface_patches": 64095
+    },
+    {
+      "raw_frame": 379,
+      "method_frame_indices": {
+        "GaussianSLAM": 379,
+        "Endo-2DTAM": 379,
+        "MonoGS": 379,
+        "EndoGSLAM": 332,
+        "SplaTAM": 379,
+        "KFS4LAM": 379,
+        "GT": 379
+      },
+      "observed_surface_patches": 64154
+    },
+    {
+      "raw_frame": 381,
+      "method_frame_indices": {
+        "GaussianSLAM": 381,
+        "Endo-2DTAM": 381,
+        "MonoGS": 381,
+        "EndoGSLAM": 334,
+        "SplaTAM": 381,
+        "KFS4LAM": 381,
+        "GT": 381
+      },
+      "observed_surface_patches": 64204
+    },
+    {
+      "raw_frame": 384,
+      "method_frame_indices": {
+        "GaussianSLAM": 384,
+        "Endo-2DTAM": 384,
+        "MonoGS": 384,
+        "EndoGSLAM": 336,
+        "SplaTAM": 384,
+        "KFS4LAM": 384,
+        "GT": 384
+      },
+      "observed_surface_patches": 64249
+    },
+    {
+      "raw_frame": 386,
+      "method_frame_indices": {
+        "GaussianSLAM": 386,
+        "Endo-2DTAM": 386,
+        "MonoGS": 386,
+        "EndoGSLAM": 338,
+        "SplaTAM": 386,
+        "KFS4LAM": 386,
+        "GT": 386
+      },
+      "observed_surface_patches": 64276
+    },
+    {
+      "raw_frame": 388,
+      "method_frame_indices": {
+        "GaussianSLAM": 388,
+        "Endo-2DTAM": 388,
+        "MonoGS": 388,
+        "EndoGSLAM": 340,
+        "SplaTAM": 388,
+        "KFS4LAM": 388,
+        "GT": 388
+      },
+      "observed_surface_patches": 64294
+    },
+    {
+      "raw_frame": 390,
+      "method_frame_indices": {
+        "GaussianSLAM": 390,
+        "Endo-2DTAM": 390,
+        "MonoGS": 390,
+        "EndoGSLAM": 342,
+        "SplaTAM": 390,
+        "KFS4LAM": 390,
+        "GT": 390
+      },
+      "observed_surface_patches": 64314
+    },
+    {
+      "raw_frame": 393,
+      "method_frame_indices": {
+        "GaussianSLAM": 393,
+        "Endo-2DTAM": 393,
+        "MonoGS": 393,
+        "EndoGSLAM": 344,
+        "SplaTAM": 393,
+        "KFS4LAM": 393,
+        "GT": 393
+      },
+      "observed_surface_patches": 64340
+    },
+    {
+      "raw_frame": 395,
+      "method_frame_indices": {
+        "GaussianSLAM": 395,
+        "Endo-2DTAM": 395,
+        "MonoGS": 395,
+        "EndoGSLAM": 346,
+        "SplaTAM": 395,
+        "KFS4LAM": 395,
+        "GT": 395
+      },
+      "observed_surface_patches": 64356
+    },
+    {
+      "raw_frame": 397,
+      "method_frame_indices": {
+        "GaussianSLAM": 397,
+        "Endo-2DTAM": 397,
+        "MonoGS": 397,
+        "EndoGSLAM": 348,
+        "SplaTAM": 397,
+        "KFS4LAM": 397,
+        "GT": 397
+      },
+      "observed_surface_patches": 64384
+    },
+    {
+      "raw_frame": 400,
+      "method_frame_indices": {
+        "GaussianSLAM": 400,
+        "Endo-2DTAM": 400,
+        "MonoGS": 400,
+        "EndoGSLAM": 350,
+        "SplaTAM": 400,
+        "KFS4LAM": 400,
+        "GT": 400
+      },
+      "observed_surface_patches": 64409
+    },
+    {
+      "raw_frame": 402,
+      "method_frame_indices": {
+        "GaussianSLAM": 402,
+        "Endo-2DTAM": 402,
+        "MonoGS": 402,
+        "EndoGSLAM": 352,
+        "SplaTAM": 402,
+        "KFS4LAM": 402,
+        "GT": 402
+      },
+      "observed_surface_patches": 64425
+    },
+    {
+      "raw_frame": 404,
+      "method_frame_indices": {
+        "GaussianSLAM": 404,
+        "Endo-2DTAM": 404,
+        "MonoGS": 404,
+        "EndoGSLAM": 354,
+        "SplaTAM": 404,
+        "KFS4LAM": 404,
+        "GT": 404
+      },
+      "observed_surface_patches": 64443
+    },
+    {
+      "raw_frame": 406,
+      "method_frame_indices": {
+        "GaussianSLAM": 406,
+        "Endo-2DTAM": 406,
+        "MonoGS": 406,
+        "EndoGSLAM": 356,
+        "SplaTAM": 406,
+        "KFS4LAM": 406,
+        "GT": 406
+      },
+      "observed_surface_patches": 64455
+    },
+    {
+      "raw_frame": 409,
+      "method_frame_indices": {
+        "GaussianSLAM": 409,
+        "Endo-2DTAM": 409,
+        "MonoGS": 409,
+        "EndoGSLAM": 358,
+        "SplaTAM": 409,
+        "KFS4LAM": 409,
+        "GT": 409
+      },
+      "observed_surface_patches": 64483
+    },
+    {
+      "raw_frame": 411,
+      "method_frame_indices": {
+        "GaussianSLAM": 411,
+        "Endo-2DTAM": 411,
+        "MonoGS": 411,
+        "EndoGSLAM": 360,
+        "SplaTAM": 411,
+        "KFS4LAM": 411,
+        "GT": 411
+      },
+      "observed_surface_patches": 64533
+    },
+    {
+      "raw_frame": 413,
+      "method_frame_indices": {
+        "GaussianSLAM": 413,
+        "Endo-2DTAM": 413,
+        "MonoGS": 413,
+        "EndoGSLAM": 362,
+        "SplaTAM": 413,
+        "KFS4LAM": 413,
+        "GT": 413
+      },
+      "observed_surface_patches": 64642
+    },
+    {
+      "raw_frame": 416,
+      "method_frame_indices": {
+        "GaussianSLAM": 416,
+        "Endo-2DTAM": 416,
+        "MonoGS": 416,
+        "EndoGSLAM": 364,
+        "SplaTAM": 416,
+        "KFS4LAM": 416,
+        "GT": 416
+      },
+      "observed_surface_patches": 64876
+    },
+    {
+      "raw_frame": 418,
+      "method_frame_indices": {
+        "GaussianSLAM": 418,
+        "Endo-2DTAM": 418,
+        "MonoGS": 418,
+        "EndoGSLAM": 366,
+        "SplaTAM": 418,
+        "KFS4LAM": 418,
+        "GT": 418
+      },
+      "observed_surface_patches": 65134
+    },
+    {
+      "raw_frame": 420,
+      "method_frame_indices": {
+        "GaussianSLAM": 420,
+        "Endo-2DTAM": 420,
+        "MonoGS": 420,
+        "EndoGSLAM": 368,
+        "SplaTAM": 420,
+        "KFS4LAM": 420,
+        "GT": 420
+      },
+      "observed_surface_patches": 65433
+    },
+    {
+      "raw_frame": 422,
+      "method_frame_indices": {
+        "GaussianSLAM": 422,
+        "Endo-2DTAM": 422,
+        "MonoGS": 422,
+        "EndoGSLAM": 370,
+        "SplaTAM": 422,
+        "KFS4LAM": 422,
+        "GT": 422
+      },
+      "observed_surface_patches": 65828
+    },
+    {
+      "raw_frame": 425,
+      "method_frame_indices": {
+        "GaussianSLAM": 425,
+        "Endo-2DTAM": 425,
+        "MonoGS": 425,
+        "EndoGSLAM": 372,
+        "SplaTAM": 425,
+        "KFS4LAM": 425,
+        "GT": 425
+      },
+      "observed_surface_patches": 66339
+    },
+    {
+      "raw_frame": 427,
+      "method_frame_indices": {
+        "GaussianSLAM": 427,
+        "Endo-2DTAM": 427,
+        "MonoGS": 427,
+        "EndoGSLAM": 374,
+        "SplaTAM": 427,
+        "KFS4LAM": 427,
+        "GT": 427
+      },
+      "observed_surface_patches": 66793
+    },
+    {
+      "raw_frame": 429,
+      "method_frame_indices": {
+        "GaussianSLAM": 429,
+        "Endo-2DTAM": 429,
+        "MonoGS": 429,
+        "EndoGSLAM": 376,
+        "SplaTAM": 429,
+        "KFS4LAM": 429,
+        "GT": 429
+      },
+      "observed_surface_patches": 67255
+    },
+    {
+      "raw_frame": 432,
+      "method_frame_indices": {
+        "GaussianSLAM": 432,
+        "Endo-2DTAM": 432,
+        "MonoGS": 432,
+        "EndoGSLAM": 378,
+        "SplaTAM": 432,
+        "KFS4LAM": 432,
+        "GT": 432
+      },
+      "observed_surface_patches": 67675
+    },
+    {
+      "raw_frame": 434,
+      "method_frame_indices": {
+        "GaussianSLAM": 434,
+        "Endo-2DTAM": 434,
+        "MonoGS": 434,
+        "EndoGSLAM": 380,
+        "SplaTAM": 434,
+        "KFS4LAM": 434,
+        "GT": 434
+      },
+      "observed_surface_patches": 68018
+    },
+    {
+      "raw_frame": 436,
+      "method_frame_indices": {
+        "GaussianSLAM": 436,
+        "Endo-2DTAM": 436,
+        "MonoGS": 436,
+        "EndoGSLAM": 382,
+        "SplaTAM": 436,
+        "KFS4LAM": 436,
+        "GT": 436
+      },
+      "observed_surface_patches": 68300
+    },
+    {
+      "raw_frame": 438,
+      "method_frame_indices": {
+        "GaussianSLAM": 438,
+        "Endo-2DTAM": 438,
+        "MonoGS": 438,
+        "EndoGSLAM": 384,
+        "SplaTAM": 438,
+        "KFS4LAM": 438,
+        "GT": 438
+      },
+      "observed_surface_patches": 68647
+    },
+    {
+      "raw_frame": 441,
+      "method_frame_indices": {
+        "GaussianSLAM": 441,
+        "Endo-2DTAM": 441,
+        "MonoGS": 441,
+        "EndoGSLAM": 386,
+        "SplaTAM": 441,
+        "KFS4LAM": 441,
+        "GT": 441
+      },
+      "observed_surface_patches": 68930
+    },
+    {
+      "raw_frame": 443,
+      "method_frame_indices": {
+        "GaussianSLAM": 443,
+        "Endo-2DTAM": 443,
+        "MonoGS": 443,
+        "EndoGSLAM": 388,
+        "SplaTAM": 443,
+        "KFS4LAM": 443,
+        "GT": 443
+      },
+      "observed_surface_patches": 69238
+    },
+    {
+      "raw_frame": 445,
+      "method_frame_indices": {
+        "GaussianSLAM": 445,
+        "Endo-2DTAM": 445,
+        "MonoGS": 445,
+        "EndoGSLAM": 390,
+        "SplaTAM": 445,
+        "KFS4LAM": 445,
+        "GT": 445
+      },
+      "observed_surface_patches": 69482
+    },
+    {
+      "raw_frame": 448,
+      "method_frame_indices": {
+        "GaussianSLAM": 448,
+        "Endo-2DTAM": 448,
+        "MonoGS": 448,
+        "EndoGSLAM": 392,
+        "SplaTAM": 448,
+        "KFS4LAM": 448,
+        "GT": 448
+      },
+      "observed_surface_patches": 69663
+    },
+    {
+      "raw_frame": 450,
+      "method_frame_indices": {
+        "GaussianSLAM": 450,
+        "Endo-2DTAM": 450,
+        "MonoGS": 450,
+        "EndoGSLAM": 394,
+        "SplaTAM": 450,
+        "KFS4LAM": 450,
+        "GT": 450
+      },
+      "observed_surface_patches": 69783
+    },
+    {
+      "raw_frame": 452,
+      "method_frame_indices": {
+        "GaussianSLAM": 452,
+        "Endo-2DTAM": 452,
+        "MonoGS": 452,
+        "EndoGSLAM": 396,
+        "SplaTAM": 452,
+        "KFS4LAM": 452,
+        "GT": 452
+      },
+      "observed_surface_patches": 69929
+    },
+    {
+      "raw_frame": 454,
+      "method_frame_indices": {
+        "GaussianSLAM": 454,
+        "Endo-2DTAM": 454,
+        "MonoGS": 454,
+        "EndoGSLAM": 398,
+        "SplaTAM": 454,
+        "KFS4LAM": 454,
+        "GT": 454
+      },
+      "observed_surface_patches": 70051
+    },
+    {
+      "raw_frame": 457,
+      "method_frame_indices": {
+        "GaussianSLAM": 457,
+        "Endo-2DTAM": 457,
+        "MonoGS": 457,
+        "EndoGSLAM": 400,
+        "SplaTAM": 457,
+        "KFS4LAM": 457,
+        "GT": 457
+      },
+      "observed_surface_patches": 70201
+    },
+    {
+      "raw_frame": 459,
+      "method_frame_indices": {
+        "GaussianSLAM": 459,
+        "Endo-2DTAM": 459,
+        "MonoGS": 459,
+        "EndoGSLAM": 402,
+        "SplaTAM": 459,
+        "KFS4LAM": 459,
+        "GT": 459
+      },
+      "observed_surface_patches": 70377
+    },
+    {
+      "raw_frame": 461,
+      "method_frame_indices": {
+        "GaussianSLAM": 461,
+        "Endo-2DTAM": 461,
+        "MonoGS": 461,
+        "EndoGSLAM": 404,
+        "SplaTAM": 461,
+        "KFS4LAM": 461,
+        "GT": 461
+      },
+      "observed_surface_patches": 70545
+    },
+    {
+      "raw_frame": 464,
+      "method_frame_indices": {
+        "GaussianSLAM": 464,
+        "Endo-2DTAM": 464,
+        "MonoGS": 464,
+        "EndoGSLAM": 406,
+        "SplaTAM": 464,
+        "KFS4LAM": 464,
+        "GT": 464
+      },
+      "observed_surface_patches": 70650
+    }
+  ],
+  "mesh": "Accumulated local triangle/surfel patches from rendered RGB-D; no hole filling; not GT mesh",
+  "trajectory": "Ground truth and estimated world-space camera centers; each estimated path Sim3-aligned to its GT; mesh receives focus trajectory alignment",
+  "render": "Native method renderers at exact saved poses; no nearest-frame substitution",
+  "replay": "Final-checkpoint rendered observations accumulated in frame order, not intermediate optimization snapshots",
+  "mesh_triangles": 70650,
+  "mesh_vertices": 211950,
+  "depth_display": {
+    "units": "mm",
+    "vmin": 12.719920653086136,
+    "vmax": 60.105287251087205,
+    "colormap": "viridis",
+    "white": "invalid",
+    "saturation": "clipped to shared sequence range",
+    "monogs_scale": 16.458091188940212,
+    "gaussianslam_scale": 1000
+  }
+}
