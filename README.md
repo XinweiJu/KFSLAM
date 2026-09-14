@@ -46,9 +46,8 @@ Synchronized RGB and depth comparisons above a progressively accumulated observe
 
 | Sequence | Comparison | Video |
 |---|---|---|
-| trans_t2_b | Main | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_b__comparison_rgbd_surface.mp4) |
-| c1_rectum_t2_v1 | Main | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c1_rectum_t2_v1__comparison_rgbd_surface.mp4) |
 | c2_sigmoid_t2_v1 | SplaTAM backbone | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/c2_sigmoid_t2_v1__comparison_rgbd_surface.mp4) |
+| trans_t2_b | Main | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_b__comparison_rgbd_surface.mp4) |
 | trans_t2_c | EndoGSLAM backbone | [Watch / download](https://anonymous4submission123.github.io/KFS4LAM_Submission/assets/trans_t2_c__comparison_rgbd_surface.mp4) |
 
 Local surface patches accumulate from final-checkpoint rendered observations, preserving gaps; these are not intermediate optimization snapshots. EndoGSLAM comparisons assess whether keyframe selection and fold supervision transfer beyond the primary SplaTAM backbone.
