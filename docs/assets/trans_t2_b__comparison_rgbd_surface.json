@@ -1194,6 +1194,52 @@
   "replay": "Final-checkpoint rendered observations accumulated in frame order, not intermediate optimization snapshots",
   "mesh_triangles": 55570,
   "mesh_vertices": 166710,
+  "metrics": {
+    "trajectory_ate_mean_mm": {
+      "SplaTAM": 0.3666846249326166,
+      "KFS4LAM": 0.3384619369444724
+    },
+    "video_mean": {
+      "GaussianSLAM": {
+        "psnr": 15.55272550373287,
+        "ssim": 0.754411953491169,
+        "lpips": 0.5354215915386493,
+        "depth_rmse": 7.075911941109123
+      },
+      "Endo-2DTAM": {
+        "psnr": 19.0376497231997,
+        "ssim": 0.7475035727679075,
+        "lpips": 0.3544168295441093,
+        "depth_rmse": 12.467641446616623
+      },
+      "MonoGS": {
+        "psnr": 29.1291175700806,
+        "ssim": 0.8561305947356171,
+        "lpips": 0.3858644061691158,
+        "depth_rmse": 19.71910950377747
+      },
+      "EndoGSLAM": {
+        "psnr": 19.047775124455548,
+        "ssim": 0.7762604165863205,
+        "lpips": 0.31117257393978454,
+        "depth_rmse": 4.0455677928505365
+      },
+      "SplaTAM": {
+        "psnr": 20.735283002748595,
+        "ssim": 0.8105470479189695,
+        "lpips": 0.24892240402462718,
+        "depth_rmse": 3.4930605377469743
+      },
+      "KFS4LAM": {
+        "psnr": 21.12586321411552,
+        "ssim": 0.8107218722720723,
+        "lpips": 0.22346275741909885,
+        "depth_rmse": 3.506769273307297
+      }
+    },
+    "show_psnr": true,
+    "show_depth_rmse": true
+  },
   "depth_display": {
     "units": "mm",
     "vmin": 9.457541771572442,
