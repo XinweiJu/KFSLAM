@@ -1,0 +1,18 @@
+\begin{table*}[t]
+\centering
+\caption{Comparison on C3VD and C3VD-v2. Values are sequence means on 14 and 11 sequences, respectively.}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|rrrrrrrr|rrrrrrrr}
+\toprule
+Method & \multicolumn{8}{c|}{C3VD} & \multicolumn{8}{c}{C3VD-v2} \\
+ & m ATE & m ARE & RPE-t & RPE-r & PSNR & SSIM & LPIPS & \shortstack{Depth\\RMSE} & m ATE & m ARE & RPE-t & RPE-r & PSNR & SSIM & LPIPS & \shortstack{Depth\\RMSE} \\
+\midrule
+GaussianSLAM   & 4.0885 & 77.3899 & 0.3392 & 0.1930 & 25.7629 & 0.7498 & 0.5148 & 6.5036 & 10.9947 & 104.4292 & 0.7494 & \textbf{0.4394} & 22.9059 & 0.6604 & 0.6127 & 10.1778 \\
+Endo-2DTAM   & 1.5718 & 47.2588 & 0.1321 & 0.6578 & 20.2745 & 0.7867 & 0.3603 & 9.0555 & 10.9641 & 93.3534 & 0.4446 & 2.4587 & 18.3417 & 0.6850 & 0.4917 & 14.5562 \\
+MonoGS   & 2.7190 & 63.4965 & 0.3791 & 0.5640 & \textbf{29.6784} & 0.8482 & 0.3824 & 1430.0773 & 7.8102 & 69.8136 & 0.5809 & 1.6017 & \textbf{25.7714} & \textbf{0.7740} & 0.6115 & 1071.4941 \\
+EndoGSLAM   & 0.5377 & 10.7657 & 0.0888 & 0.1617 & 21.1734 & 0.7319 & 0.3111 & 2.6904 & 7.5037 & 60.1639 & 0.4411 & 1.2234 & 14.6158 & 0.5615 & 0.6484 & 14.8925 \\
+SplaTAM   & 0.4544 & 10.3404 & 0.0625 & 0.1464 & 25.6437 & 0.8776 & 0.2416 & 1.1509 & 7.6836 & 59.4920 & \textbf{0.3103} & 1.3969 & 20.1354 & 0.7053 & \textbf{0.4257} & 4.9467 \\
+KFS$^4$LAM   & \textbf{0.4476} & \textbf{9.3457} & \textbf{0.0624} & \textbf{0.1418} & 26.6164 & \textbf{0.8835} & \textbf{0.2206} & \textbf{1.0720} & \textbf{7.2429} & \textbf{44.8062} & 0.3764 & 1.1134 & 20.9113 & 0.7163 & 0.4332 & \textbf{3.0472} \\
+\bottomrule
+\end{tabular}}
+\end{table*}

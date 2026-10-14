@@ -1,0 +1,30 @@
+% Requires booktabs, multirow, graphicx, xcolor[table].
+% Ranking uses displayed 4-decimal values; ties share rank.
+\begin{table*}[t]
+\caption{Cross-backbone and component results on C3VD and C3VD-v2. Green indicates improvement over the corresponding backbone; darker shades denote later stages. Backbone-wise best and second-best displayed values are bold and underlined; ties share rank. wKF is the sequence-length-weighted keyframe ratio (\%) and is not ranked. All SplaTAM component rows use DynMap except the SplaTAM and MonoGS KFS rows. Deformation denotes restricted temporal deformation.}
+\centering
+\renewcommand{\arraystretch}{1.05}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|rrrrrrrrr|rrrrrrrrr}
+\toprule
+Method & \multicolumn{9}{c|}{C3VD} & \multicolumn{9}{c}{C3VD-v2} \\
+\cmidrule(lr){2-10}\cmidrule(lr){11-19}
+& m ATE & m ARE & RPE-t & RPE-r & PSNR & SSIM & LPIPS & \shortstack{Depth\\RMSE} & wKF (\%) & m ATE & m ARE & RPE-t & RPE-r & PSNR & SSIM & LPIPS & \shortstack{Depth\\RMSE} & wKF (\%) \\
+\midrule
+EndoGSLAM & \underline{0.5377} & \textbf{10.7657} & \underline{0.0888} & \underline{0.1617} & \underline{21.1734} & \underline{0.7319} & \underline{0.3111} & \underline{2.6904} & 11.2737 & \textbf{7.5037} & \underline{60.1639} & \underline{0.4411} & \underline{1.2234} & \underline{14.6158} & \underline{0.5615} & \underline{0.6484} & \underline{14.8925} & 11.2641 \\
+KFS$^4$LAM$_{\mathrm{EndoGSLAM}}$ & \cellcolor{green!30}\textbf{0.5276} & \underline{12.1956} & \cellcolor{green!30}\textbf{0.0870} & \cellcolor{green!30}\textbf{0.1605} & \cellcolor{green!30}\textbf{21.7622} & \cellcolor{green!30}\textbf{0.7379} & \cellcolor{green!30}\textbf{0.3013} & \cellcolor{green!30}\textbf{2.5875} & 10.9639 & \underline{7.6249} & \cellcolor{green!30}\textbf{56.0092} & \cellcolor{green!30}\textbf{0.4277} & \cellcolor{green!30}\textbf{0.9274} & \cellcolor{green!30}\textbf{15.3012} & \cellcolor{green!30}\textbf{0.5977} & \cellcolor{green!30}\textbf{0.6082} & \cellcolor{green!30}\textbf{11.9277} & 11.0586 \\
+\midrule
+SplaTAM & 0.4544 & 10.3404 & 0.0625 & 0.1464 & 25.6437 & 0.8776 & 0.2416 & 1.1509 & 12.8571 & 7.6836 & 59.4920 & \textbf{0.3103} & 1.3969 & 20.1354 & 0.7053 & \textbf{0.4257} & 4.9467 & 12.8263 \\
+SplaTAM + DynMap & \cellcolor{green!10}0.4542 & \cellcolor{green!10}10.3180 & 0.0652 & 0.1533 & \cellcolor{green!10}25.6556 & 0.8765 & 0.2429 & 1.1729 & 12.8571 & \cellcolor{green!10}7.4050 & 64.2583 & 0.3305 & 1.6571 & 19.7124 & 0.6862 & 0.4391 & 5.4341 & 12.8263 \\
+SplaTAM + Structure-Guided & \cellcolor{green!10}0.4541 & 10.3959 & 0.0639 & 0.1480 & \cellcolor{green!10}25.6586 & 0.8776 & 0.2425 & 1.2016 & 12.8571 & 7.8456 & 86.6674 & 0.3647 & 1.7653 & 18.8259 & 0.6713 & 0.4400 & 5.1511 & 12.8263 \\
+SplaTAM + Motion-Guided & 0.4563 & \cellcolor{green!10}\textbf{9.2655} & 0.0644 & 0.1527 & 25.4654 & 0.8726 & 0.2445 & \cellcolor{green!10}1.1165 & 12.3408 & 7.9316 & 86.6297 & 0.3419 & 1.4513 & 19.1381 & 0.6587 & 0.4488 & \cellcolor{green!10}4.6965 & 12.3330 \\
+SplaTAM + Motion-and-Structure-Guided & \cellcolor{green!20}0.4526 & \cellcolor{green!20}10.0100 & 0.0644 & 0.1528 & 25.5632 & 0.8708 & 0.2445 & 1.1672 & 12.3408 & \cellcolor{green!20}7.5029 & 61.2326 & 0.4090 & \cellcolor{green!20}1.3490 & \cellcolor{green!20}\underline{20.7760} & \cellcolor{green!20}\textbf{0.7206} & \underline{0.4290} & \cellcolor{green!20}4.3053 & 12.3124 \\
+SplaTAM + Motion Proposal Only & \cellcolor{green!10}\textbf{0.4390} & \cellcolor{green!10}10.1672 & 0.0644 & 0.1531 & 25.5869 & 0.8731 & \cellcolor{green!10}\underline{0.2403} & 1.1675 & 12.3924 & \cellcolor{green!10}\textbf{6.3700} & 67.1338 & 0.3379 & \cellcolor{green!10}\underline{1.1344} & 19.2783 & 0.6560 & 0.4704 & \cellcolor{green!10}4.5818 & 12.8263 \\
+SplaTAM + Structure-Guided + Deformation & \cellcolor{green!20}\underline{0.4394} & \cellcolor{green!20}9.4965 & \cellcolor{green!20}\textbf{0.0612} & \cellcolor{green!20}\underline{0.1445} & \cellcolor{green!20}\textbf{26.8518} & \cellcolor{green!20}\textbf{0.8906} & \cellcolor{green!20}\textbf{0.2206} & \cellcolor{green!20}\textbf{1.0710} & 12.8571 & \cellcolor{green!20}7.5588 & \cellcolor{green!20}\underline{55.1991} & \underline{0.3258} & \cellcolor{green!20}1.1722 & 19.3904 & 0.6778 & 0.4303 & \cellcolor{green!20}\underline{4.0610} & 12.8263 \\
+SplaTAM + MonoGS KFS & \cellcolor{green!10}0.4506 & \cellcolor{green!10}9.6455 & 0.0646 & 0.1503 & 25.1288 & 0.8679 & 0.2423 & 1.1682 & 5.8692 & 7.7974 & \cellcolor{green!10}56.8667 & 0.3599 & 1.4378 & 19.6507 & 0.6757 & 0.4475 & 5.2921 & 9.2086 \\
+KFS$^4$LAM (Ours) & \cellcolor{green!30}0.4476 & \cellcolor{green!30}\underline{9.3457} & \cellcolor{green!30}\underline{0.0624} & \cellcolor{green!30}\textbf{0.1418} & \cellcolor{green!30}\underline{26.6164} & \cellcolor{green!30}\underline{0.8835} & \cellcolor{green!30}\textbf{0.2206} & \cellcolor{green!30}\underline{1.0720} & 12.2719 & \cellcolor{green!30}\underline{7.2429} & \cellcolor{green!30}\textbf{44.8062} & 0.3764 & \cellcolor{green!30}\textbf{1.1134} & \cellcolor{green!30}\textbf{20.9113} & \cellcolor{green!30}\underline{0.7163} & 0.4332 & \cellcolor{green!30}\textbf{3.0472} & 12.4152 \\
+\bottomrule
+\end{tabular}%
+}
+\label{tab:backbone_component}
+\end{table*}
