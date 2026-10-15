@@ -2,7 +2,7 @@
 
 KFS⁴LAM combines motion-driven keyframe selection, appearance-based redundancy suppression, fold-boundary supervision, and restricted temporal deformation for endoscopic Gaussian splatting SLAM.
 
-[Project page](https://anonymous4submission123.github.io/KFS4LAM_Submission/) · [Reconstruction downloads](https://github.com/Anonymous4Submission123/KFS4LAM_Submission/releases/tag/reconstructions-v1) · [Installation and usage](USAGE.md)
+[Project page](https://xinweiju.github.io/KFSLAM/) · [Reconstruction downloads](https://github.com/XinweiJu/KFSLAM/releases/tag/reconstructions-v1) · [Installation and usage](USAGE.md)
 
 ## Code
 
@@ -54,7 +54,7 @@ Additional render, mesh, and keyframe-trajectory comparisons are available on th
 
 ## Reconstruction downloads
 
-The accompanying [reconstruction release](https://github.com/Anonymous4Submission123/KFS4LAM_Submission/releases/tag/reconstructions-v1) provides saved KFS⁴LAM reconstructions for the C3VD and C3VD-v2 evaluation sequences. Each sequence archive contains the Gaussian parameters, temporal deformation coefficients, estimated camera poses, intrinsics, keyframe indices, and configuration required by `render_checkpoint.py`.
+The accompanying [reconstruction release](https://github.com/XinweiJu/KFSLAM/releases/tag/reconstructions-v1) provides saved KFS⁴LAM reconstructions for the C3VD and C3VD-v2 evaluation sequences. Each sequence archive contains the Gaussian parameters, temporal deformation coefficients, estimated camera poses, intrinsics, keyframe indices, and configuration required by `render_checkpoint.py`.
 
 ## Datasets and acknowledgements
 
